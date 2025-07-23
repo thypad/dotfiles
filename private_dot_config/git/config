@@ -1,0 +1,13 @@
+[user]
+	email = thyago.porpino@gmail.com
+	name = Thyago Porpino
+[init]
+	defaultBranch = master
+[credential "https://github.com"]
+	helper = 
+	helper = !/usr/bin/gh auth git-credential
+[credential "https://gist.github.com"]
+	helper = 
+	helper = !/usr/bin/gh auth git-credential
+[commit]
+	template = /home/thyago/.config/git/templates/git-commit-msg.txt

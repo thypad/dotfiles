@@ -1,0 +1,49 @@
+# ~/.zshenv: Zsh Environment Setup
+#
+# This file is sourced by all Zsh invocations (interactive, non-interactive,
+# login, non-login). It's used to set global environment variables that
+# should be available to any process launched by Zsh.
+
+#-------------------------------------------------------------------#
+#                        XDG Base Directories                       #
+#-------------------------------------------------------------------#
+# Define the XDG Base Directory Specification to organize config,
+# cache, and data files.
+export XDG_CONFIG_HOME=${XDG_CONFIG_HOME:="$HOME/.config"}
+export XDG_CACHE_HOME=${XDG_CACHE_HOME:="$HOME/.cache"}
+export XDG_DATA_HOME=${XDG_DATA_HOME:="$HOME/.local/share"}
+export XDG_STATE_HOME=${XDG_STATE_HOME:="$HOME/.local/state"}
+
+
+#-------------------------------------------------------------------#
+#                         Zsh Configuration                         #
+#-------------------------------------------------------------------#
+# Set ZDOTDIR early to tell Zsh where to find its configuration files.
+# This ensures it uses our XDG-based path.
+ZDOTDIR="$XDG_CONFIG_HOME/zsh"
+
+
+#-------------------------------------------------------------------#
+#                            System PATH                            #
+#-------------------------------------------------------------------#
+# Prepend user-specific binaries to the PATH.
+# `typeset -U path` is a Zsh-native way to ensure the path array
+# remains unique, preventing duplicate entries.
+typeset -U path
+path=("$HOME/.local/bin" $path)
+export PATH
+
+
+#-------------------------------------------------------------------#
+#                  Core Shell & Application Settings                #
+#-------------------------------------------------------------------#
+# Set terminal type, language/locale, and default pager.
+export TERM="xterm-256color"
+export LANG="en_US.UTF-8"
+export PAGER="less"
+export LESS="FRX"
+
+# Set default editors, ensuring EDITOR inherits from VISUAL.
+export VISUAL="nvim"
+export EDITOR=$VISUAL
+export SUDO_EDITOR="vi"

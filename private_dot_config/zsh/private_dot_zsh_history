@@ -1,0 +1,1908 @@
+: 1736693829:0;mv .zshrc .config/zsh/.zshrc_bkp
+: 1736693829:0;vim .config/zsh
+: 1736693829:0;rm . .p10k.zsh
+: 1736693829:0;rm .zcompdump
+: 1736693829:0;vim .zhistory
+: 1736693829:0;rm .zhistory
+: 1736693829:0;vim .zshrc .zshrc_2025-01-11_1736600118
+: 1736693829:0;rm .zshrc_2025-01-11_1736600118
+: 1736693829:0;rm .zshrc
+: 1736693829:0;vim .zshrc_bkp
+: 1736693829:0;mv .zshrc_bkp .zshrc
+: 1736693829:0;vim keybindings.zsh
+: 1736693829:0;vim plugins/zsh-defer/README.md
+: 1736693829:0;yay zoxide
+: 1736693829:0;vim ../../.zshenv
+: 1736693829:0;curl -sS https://starship.rs/install.sh | sh
+: 1736693829:0;touch ~/.config/starship.toml
+: 1736693829:0;pacman -S ttf-fira-code
+: 1736693829:0;rm forecast-dpa-itp-adj-w202501.xlsx forecast-dpa-itp-w202501.xlsx
+: 1736693829:0;rm results-itp-eval.xlsx 
+: 1736693829:0;df
+: 1736693829:0;as
+: 1736693829:0;vim a.out
+: 1736693829:0;rm a.out
+: 1736693829:0;rm -f a.out
+: 1736693829:0;mkdir starship
+: 1736693829:0;mv starship.toml starship/
+: 1736693829:0;cd starship
+: 1736693829:0;vim starship.toml
+: 1736693829:0;pacman -S eza
+: 1736693829:0;z Work/mathanalytics/git/data-pipelines
+: 1736693829:0;ls starship
+: 1736693829:0;ks
+: 1736693829:0;sudo pacman -S bat
+: 1736693829:0;pacman -S tldr
+: 1736693829:0;tldr zip
+: 1736693829:0;sudo pacman -S procs
+: 1736693829:0;tldr procs
+: 1736693829:0;procs --tree
+: 1736693829:0;procs --sortd mem
+: 1736693829:0;procs --sortd cpu
+: 1736693829:0;procs
+: 1736693829:0;procsm
+: 1736693829:0;topmem
+: 1736693829:0;topcpu
+: 1736693829:0;yay -S tre-command
+: 1736693829:0;tre --help
+: 1736693829:0;tldr tre
+: 1736693829:0;tree --color always
+: 1736693829:0;tre --color always
+: 1736693829:0;tre --color always .ssh
+: 1736693829:0;tre --all --color always .ssh
+: 1736693829:0;sudo pacman -S lazygit
+: 1736693829:0;bat install-list.txt
+: 1736693829:0;cat install-list.txt
+: 1736693829:0;bat --help
+: 1736693829:0;source .config/zsh/.zshrc
+: 1736693829:0;tre --all
+: 1736693829:0;tre --all Videos
+: 1736693829:0;tre Videos
+: 1736693829:0;tre Videos/
+: 1736693829:0;tre Downloads
+: 1736693829:0;eza --tree .config/zsh
+: 1736693829:0;tre .config/zsh
+: 1736693829:0;pacman -R command-tre
+: 1736693829:0;yay -R tre
+: 1736693829:0;yayr tre
+: 1736693829:0;tldr yay
+: 1736693829:0;.
+: 1736693829:0;pacman -Ss tre
+: 1736693829:0;yay tre
+: 1736693829:0;pacman -R tre
+: 1736693829:0;yay -Rns tre
+: 1736693829:0;which tre
+: 1736693829:0;tre
+: 1736693829:0;yay -Rns tre-command
+: 1736693829:0;apropos
+: 1736693829:0;tldr apropos
+: 1736693829:0;sudo pacman -S bandwhich
+: 1736693829:0;bandwhich
+: 1736693829:0;gcloud
+: 1736693829:0;vim .pulse-cookie
+: 1736693829:0;cd .jupyter
+: 1736693829:0;cd .ssh
+: 1736693829:0;xit
+: 1736693829:0;tpm
+: 1736693829:0;ls -a .config/zsh
+: 1736693829:0;fad
+: 1736693829:0;asdfa
+: 1736693829:0;sdf
+: 1736693829:0;adfa
+: 1736693829:0;c
+: 1736693829:0;zi
+: 1736693829:0;cdi zsh
+: 1736693829:0;cdi
+: 1736693829:0;rm .zsh_history
+: 1736693829:0;cd local
+: 1736693829:0;cd share
+: 1736693829:0;vim .config/local/share/zoxide/db.zo 
+: 1736693829:0;z --help
+: 1736693829:0;zoxide
+: 1736693829:0;echo $_ZO_DATA_DIR
+: 1736693829:0;pacman -S tmuxp
+: 1736693829:0;exit
+: 1736687877:0;vim functions.zsh
+: 1736687889:0;mv functions.zsh functions-bkp.zsh
+: 1736687896:0;touch functions.zsh
+: 1736690546:0;cat .zshrc
+: 1736690624:0;rcat .zshrc
+: 1736691118:0;compinit -C
+: 1736692067:0;rm -rf .config/local/share/zinit
+: 1736692427:0;vim .zshr
+: 1736692809:0;vim .config/zsh/keybindings.zsh
+: 1736693546:0;pals
+: 1736693814:0;rm -r plugins
+: 1736766398:0;tldr bat
+: 1736766413:0;bash -L
+: 1736766995:0;mv keybindings.zsh keybinds.zsh
+: 1736767072:0;vim .zsh_history
+: 1736767119:0;vim .config/zsh/.zsh_history
+: 1736767250:0;tmux --version
+: 1736768729:0;tmuxa 1
+: 1736769103:0;LS
+: 1736769277:0;tmux source .config/tmux/tmux.conf
+: 1736771499:0;pyenv update
+: 1736772550:0;pyenv global system
+: 1736772558:0;pipx
+: 1736780861:0;pipx ls
+: 1736781048:0;cd kronos/
+: 1736784614:0;vim setup.py
+: 1736784689:0;cp -r ../data-pipelines/scripts/kronos/kronos .
+: 1736784697:0;cp -r ../data-pipelines/scripts/kronos/tests .
+: 1736784731:0;tree kronos
+: 1736785289:0;mkdir src
+: 1736785294:0;mv kronos src
+: 1736785322:0;rm setup.py
+: 1736785430:0;python -c "import pandas; pandas.__version__"
+: 1736785440:0;python -c "import pandas; print(pandas.__version__)"
+: 1736785597:0;gits
+: 1736785600:0;gst
+: 1736785615:0;pip install -e
+: 1736785621:0;pip install -e .
+: 1736788321:0;pytest tests
+: 1736788351:0;vim tests/tests/datasets/demand/conftest.py
+: 1736788379:0;tree tests
+: 1736788385:0;vim tests/datasets/demand/conftest.py
+: 1736788541:0;which pipx
+: 1736788545:0;pipx install uv
+: 1736788665:0;tree src
+: 1736791528:0;ls .config/ghostty
+: 1736791535:0;cat .config/ghostty
+: 1736791540:0;cat .config/ghostty/config
+: 1736791575:0;cd ghostty
+: 1736791724:0;ghostty --help
+: 1736791741:0;vim config
+: 1736791813:0;ghostty +validate-config
+: 1736792067:0;pacman -S ttf-jetbrains-mono-nerd
+: 1736794874:0;vim Base_Sellout_202402.csv
+: 1736796245:0;ghostty +list-fonts
+: 1736798516:0;pacman -S nushell
+: 1736798528:0;nu
+: 1736815587:0;vim .config/zsh/.zshrc\
+
+: 1736862143:0;mv core.py base.py
+: 1736862341:0;vim validation.py
+: 1736939756:0;cd datasets/demand/
+: 1736940127:0;ls ..
+: 1736940149:0;mv validation.py validation/pandas.py
+: 1736940704:0;vim preprocessing/base.py
+: 1736940943:0;ls preprocessing
+: 1736941529:0;vim timeseries.py m
+: 1736942387:0;vim ../utils/validation/pandas.py
+: 1736942478:0;vim ../datasets/demand/pandas.py
+: 1736943280:0;vim timeseries.py
+: 1736943293:0;rm timeseries.py
+: 1736943848:0;ls pyproject.toml
+: 1736944942:0;ll
+: 1736944953:0;vim pyproject.toml
+: 1736945134:0;pytest
+: 1736965063:0;pipx install ruff
+: 1736965074:0;tldr ruff
+: 1736965122:0;ruff check .
+: 1736965376:0;vim preprocessing/utils.py
+: 1736965545:0;ruff check src
+: 1736965742:0;cp ../datasets/demand/factory.py .
+: 1736965750:0;cp ../datasets/demand/transformer.py .
+: 1736965985:0;cp pandas.py pyspark.py
+: 1736966884:0;mkdir nixtla
+: 1736966909:0;mv base.py core.py utils.py nixtla
+: 1736966951:0;mv ideas.txt nixtla
+: 1736967023:0;vim ls
+: 1736967757:0;mkdir statsforecast
+: 1736967780:0;mv base.py core.py ideas.txt utils.py statsforecast
+: 1736967784:0;touch __init__.py
+: 1736968470:0;ls nixtla
+: 1737029019:0;tree datasets
+: 1737029061:0;cd datasets/
+: 1737029511:0;vim ideas.txt
+: 1737029524:0;rm ideas.txt
+: 1737030025:0;lcd
+: 1737030056:0;ls src
+: 1737030669:0;cd kronos/src/kronos/datasets/demand
+: 1737032565:0;bat conftest.py
+: 1737032574:0;rcat conftest.py
+: 1737033554:0;cd tests/e
+: 1737033567:0;mkdir validation
+: 1737033623:0;mv pandas.py test_pandas.py
+: 1737033632:0;cd tests/datasets/demand
+: 1737033803:0;cd utils/validation/
+: 1737039234:0;vim ../../utils/validation/pandas.py
+: 1737039632:0;vim pyspark.py
+: 1737045637:0;git config --local user.name "Thyago Porpino"
+: 1737045653:0;git config --local user.email "thyago.porpino@mathanalytics.com.br"
+: 1737045663:0;git commit -m "load all initial development"
+: 1737046881:0;rm taurus
+: 1737046884:0;rm taurus.zip
+: 1737046888:0;cd taurus/
+: 1737046891:0;ls taurus
+: 1737046904:0;vim taurus/dataprep/utils.py
+: 1737047435:0;vim prediction.py
+: 1737047572:0;cp prediction.py ~/taurus.py
+: 1737047731:0;cp experiment.py ~/taurus-comp.py
+: 1737049053:0;bat kronos/models/utils.py
+: 1737049070:0;ls tests
+: 1737049093:0;rm -rf kronos
+: 1737049126:0;mv taurus ../../taurus-2025-01-16
+: 1737049157:0;git add scripts/
+: 1737049167:0;git commit -m "update scripts for dpa sellout"
+: 1737049889:0;git restore aggregate.py
+: 1737049894:0;git rm aggregate.py
+: 1737049906:0;vim gcs_sftp_ingest_test_dag.py
+: 1737049914:0;rm gcs_sftp_ingest_test_dag.py
+: 1737049938:0;git commit -m "Remove aggregate test dag"
+: 1737062969:0;pipx install pytest-datadir
+: 1737062994:0;pipx install pytest
+: 1737063012:0;pipx install pytest_datadir
+: 1737063042:0;pip install pytest-datadir
+: 1737063057:0;cd tests
+: 1737063106:0;mv ~/sample_dataframe.csv data
+: 1737063339:0;vim ../../../src/kronos/datasets/demand/pandas.py
+: 1737063474:0;pytest -s test_pandas.py
+: 1737063995:0;pytest --trace-config
+: 1737064090:0;pytest --trace-config | grep datadir
+: 1737064165:0;pytest test_pandas.py
+: 1737064509:0;vim test_pandas.py
+: 1737064533:0;pytest test_pandas.py -s
+: 1737064560:0;vim conftest.py
+: 1737064655:0;git commit -m "Start using pytest-datadir to store test data"
+: 1737064661:0;git add src/
+: 1737064668:0;git commit -m "Fix wrong function name"
+: 1737064715:0;git config pull.rebase false
+: 1738607488:0;pacman -S libreoffice
+: 1738721564:0;pip install pyipeadata
+: 1738721620:0;pip uninstall pyipeadata
+: 1738721627:0;pip install ipeadatapy
+: 1738778381:0;pip install --upgrade utilsforecast
+: 1738778628:0;pip install --upgrade statsforecast
+: 1738778650:0;python -m pip install --upgrade utilsforecast
+: 1738778657:0;python -m pip install --upgrade statsforecast
+: 1738778725:0;python -m pip install --upgrade numpy pandas
+: 1738778744:0;python -m pip install --upgrade numba
+: 1738778944:0;python -v venv venv
+: 1738778961:0;python -m venv venv
+: 1738778964:0;cd venv
+: 1738778971:0;source venv/bin/activate
+: 1738778982:0;pip install numpy pandas utilsforecast statsforecast
+: 1738779024:0;from utilsforecast.feature_engineering import fourier
+: 1738779046:0;which python
+: 1738843133:0;cd ls
+: 1738844761:0;rm forecast-dpa-itp-*
+: 1738844772:0;rm -rf ipca_SerieHist
+: 1738844785:0;rm -rf ipca_SerieHist\ \(1\).zip
+: 1738844790:0;rm -rf ipca_SerieHist\ \(1\)
+: 1738844803:0;rm ipca_202412Subitem.zip
+: 1738844806:0;rm ipca_202412Subitem.xls
+: 1738844812:0;rm ipca_SerieHist.zip
+: 1738844830:0;vim taurus-comp.py
+: 1738844835:0;rm taurus-comp.py
+: 1738844840:0;vim taurus.py
+: 1738844844:0;rm taurus.py
+: 1738844852:0;vim kronos.txt
+: 1738844873:0;cat kronos.txt
+: 1738844876:0;rm kronos.txt
+: 1738844952:0;vim install-list.txt
+: 1738844967:0;rm results-itp-eval.xlsx
+: 1738844970:0;vim spark\ executor\ cores\ 16.txt
+: 1738931079:0;pyenv activate 3.11.11
+: 1738931089:0;pyenv local 3.11.11
+: 1738931104:0;pyenv use 3.11.11
+: 1738931115:0;pyenv global 3.11.11
+: 1738931129:0;pyenv deactivate
+: 1738931180:0;gsutil ls gs://mat-data-prod-data-lake-dpa-esales-raw/**
+: 1738931576:0;source ~/.config/zsh/.zshrc
+: 1738931627:0;gsutil cp Base_Sellout_20250131.csv gs://mat-data-prod-data-lake-dpa-esales-raw/daily/2025-01-31/
+: 1738931645:0;gsutil cp Base_Sellout_20250201.csv gs://mat-data-prod-data-lake-dpa-esales-raw/daily/2025-02-01/
+: 1738931657:0;gsutil cp Base_Sellout_20250202.csv gs://mat-data-prod-data-lake-dpa-esales-raw/daily/2025-02-02/
+: 1738931670:0;gsutil cp Base_Sellout_20250203.csv gs://mat-data-prod-data-lake-dpa-esales-raw/daily/2025-02-03/
+: 1738931683:0;gsutil cp Base_Sellout_20250204.csv gs://mat-data-prod-data-lake-dpa-esales-raw/daily/2025-02-04/
+: 1738931695:0;gsutil cp Base_Sellout_20250205.csv gs://mat-data-prod-data-lake-dpa-esales-raw/daily/2025-02-05/
+: 1738931708:0;gsutil cp Base_Sellout_20250206.csv gs://mat-data-prod-data-lake-dpa-esales-raw/daily/2025-02-06/
+: 1738932017:0;gsutil rm gs://ma-data-prod-lake-lactalis-raw/dpa/sellout/sales/version=v1/frequency=monthly/year=2024/month=12/dpa-sellout-sales-esales-202412.csv.gz
+: 1738932178:0;gsutil ls -lh gs://ma-data-prod-lake-lactalis-raw/dpa/sellout/sales/version=v1/frequency=monthly/year=2024/month=12/dpa-sellout-sales-esales-202412.csv.gz
+: 1738932197:0;gsutil ls -lh gs://ma-data-prod-lake-lactalis-raw/dpa/sellout/sales/version=v1/frequency=monthly/year=2024/
+: 1738932217:0;gsutil ls -lh "gs://ma-data-prod-lake-lactalis-raw/dpa/sellout/sales/version=v1/frequency=monthly/year=2024/**"
+: 1738932278:0;gsutil cp gs://ma-data-prod-lake-lactalis-raw/dpa/sellout/sales/version=v1/frequency=monthly/year=2024/month=10/dpa-sellout-sales-esales-202410.csv.gz .
+: 1738932310:0;gunzip dpa-sellout-sales-esales-202410.csv.gz
+: 1738932364:0;gsutil cp gs://ma-data-prod-lake-lactalis-raw/dpa/sellout/sales/version=v1/frequency=monthly/year=2024/month=12/dpa-sellout-sales-esales-202412.csv.gz .
+: 1738932379:0;gunzip dpa-sellout-sales-esales-202412.csv.gz
+: 1738932384:0;ls -lh dpa*
+: 1738932397:0;vim dpa-sellout-sales-esales-202410.csv
+: 1738932438:0;vim dpa-sellout-sales-esales-202412.csv
+: 1739301261:0;ls ../data/lactalis
+: 1739492799:0;pacman -S gnome-shell-extensions
+: 1739495735:0;rm data_sellout.csv
+: 1739538999:0;tree scripts
+: 1739539092:0;vim scripts/orgs/lactalis/dpa/sellout/models/sales/weekly/dataprep_interim.py
+: 1739539354:0;vim scripts/orgs/lactalis/dpa/sellout/models/sales/weekly/dataprep_processed.py
+: 1739539637:0;gsutil zip
+: 1739539655:0;gsutil --help | grep zip
+: 1739539859:0;gnome-text-editor cloudbuild.yaml
+: 1739540173:0;git add cloudbuild.yaml
+: 1739540198:0;git commit -m "Add build steps to upload package to GCS"
+: 1739540349:0;git commit -m "Fix syntax error"
+: 1739540418:0;git commit -m "Remove duplicated step"
+: 1739540680:0;python -m build
+: 1739540734:0;got statis
+: 1739540804:0;git diff cloudbuild.yaml
+: 1739540827:0;git commit -m "Add build module to virtualenv"
+: 1739541131:0;gsutil ls gs://ma-shared-prod-pyspark-scripts/packages
+: 1739541148:0;gsutil ls " gs://ma-shared-prod-pyspark-scripts/packages/kronos/**"
+: 1739550894:0;pip list
+: 1739555876:0;cd src/kronos
+: 1739555878:0;cd preprocessing
+: 1739556969:0;gcloud dataproc batches submit pyspark dataprep_processed.py --staging-bucket=ma-shared-prod-code-pyspark --deps-bucket=ma-shared-prod-code-pyspark --region=us-central1 --project=ma-shared-prod --version=2.2 --container-image us-central1-docker.pkg.dev/ma-shared-prod/docker-images/dataproc:latest --py-files="gs://ma-shared-prod-pyspark-scripts/packages/kronos/" -- --input "gs://ma-shared-prod-models-lactalis/dpa/sellout/sales/weekly/data/2024-W52/dpa-sellout-sales-weekly-data-full-interim-2024-W52.parquet.snappy" --output "gs://ma-shared-prod-models-lactalis/dpa/sellout/sales/weekly/data/2024-W52/dpa-sellout-sales-weekly-data-full-processed-2024-W52.parquet.snappy" --id_cols distributor_id product_id --time_col date --target_col sales_volume --frequency weekly
+: 1739557460:0;gsutil ls "gs://ma-shared-prod-pyspark-scripts/packages/kronos/**"
+: 1739558582:0;gsutil
+: 1739558597:0;gsutil ls -lh gs://ma-shared-prod-pyspark-scripts/packages/kronos/
+: 1739558859:0;cd Work/mathanalytics/git
+: 1739558877:0;vim Dockerfile
+: 1739559404:0;vim dataproc
+: 1739575028:0;gsutil cp Base_Sellout_20250207.csv gs://mat-data-prod-data-lake-dpa-esales-raw/daily/2025-02-07/
+: 1739575055:0;gsutil cp Base_Sellout_20250208.csv gs://mat-data-prod-data-lake-dpa-esales-raw/daily/2025-02-08/
+: 1739575068:0;gsutil cp Base_Sellout_20250209.csv gs://mat-data-prod-data-lake-dpa-esales-raw/daily/2025-02-09/
+: 1739575083:0;gsutil cp Base_Sellout_20250210.csv gs://mat-data-prod-data-lake-dpa-esales-raw/daily/2025-02-10/
+: 1739575095:0;gsutil cp Base_Sellout_20250211.csv gs://mat-data-prod-data-lake-dpa-esales-raw/daily/2025-02-11/
+: 1739575107:0;gsutil cp Base_Sellout_20250212.csv gs://mat-data-prod-data-lake-dpa-esales-raw/daily/2025-02-12/
+: 1739575118:0;gsutil cp Base_Sellout_20250213.csv gs://mat-data-prod-data-lake-dpa-esales-raw/daily/2025-02-13/
+: 1739577525:0;gsutil rm gs://ma-dpa-sales-storage/forecast_production/esales_esales/data/raw/data_sellout.csv
+: 1739578159:0;gsutil cp gs://ma-dpa-sales-storage/forecast_production/esales_esales/data/raw/data_sellout.csv .
+: 1739578179:0;gsutil ls -lh gs://ma-dpa-sales-storage/forecast_production/esales_esales/data/raw/data_sellout.csv
+: 1739796704:0;yay slack-desktop
+: 1739802053:0;vim hosts.txt
+: 1739802091:0;cp hosts.txt /etc/hosts
+: 1739806706:0;aws '{print "0.0.0.0", $0}' refined-blacklist.txt
+: 1739806713:0;awk '{print "0.0.0.0", $0}' refined-blacklist.txt
+: 1739806724:0;awk '{print "0.0.0.0", $0}' refined-blacklist.txt > manga-blacklist.txt
+: 1739806729:0;vim manga-blacklist.txt
+: 1739806738:0;gnome-text-editor manga-blacklist.txt
+: 1739806873:0;cp /etc/hosts ~/hosts.bkp
+: 1739806887:0;rm /root/hosts.bkp
+: 1739806896:0;cp /etc/hosts ./hosts.bkp
+: 1739813912:0;ping www.google.com
+: 1739819064:0;vim /etc/systemd/resolved.conf
+: 1739819412:0;cp /etc/hosts /etc/hosts.bkp
+: 1739819416:0;touch /etc/hosts
+: 1739819427:0;rm /etc/hosts
+: 1739819508:0;cp /etc/hosts.bkp /etc/hosts
+: 1739819562:0;ping xvideos.com
+: 1739821335:0;networkmanager
+: 1739821438:0;vim /etc/resolv.conf
+: 1739879171:0;vim /etc/hosts
+: 1739879857:0;vim demand-202501.csv
+: 1739882202:0;git restore cloudbuild.yaml
+: 1739882256:0;cat cloudbuild.yaml
+: 1739882297:0;gsutil ls gs://ma-shared-prod-pyspark-scripts/packages/kronos/dist
+: 1739895130:0;cd sales/
+: 1739895328:0;gsutil ls gs://ma-shared-prod-pyspark-scripts/
+: 1739895351:0;gsutil rm -r gs://ma-shared-prod-pyspark-scripts/packages
+: 1739895470:0;git commit -m "Clean up package in GCS before uploading dist"
+: 1739897306:0;vim datasets/demand/base.py
+: 1739897664:0;vim datasets/demand/pandas.py
+: 1739898124:0;cat dpa_sellout_model_weekly_dag.py
+: 1739899120:0;git checkout ff5ceaec
+: 1739899157:0;git checkout master
+: 1739899161:0;git checkout main
+: 1739903533:0;cd validation
+: 1739903552:0;mkdir logging
+: 1739903560:0;touch logging/__init__.py
+: 1739903581:0;vim logging/summary.py
+: 1739903596:0;cat dataprep_interim.py
+: 1739903684:0;git commit -m "Add logging submodule and print_summary function"
+: 1739904615:0;vim src/kronos/utils/logging/summary.py
+: 1739906445:0;cd mathanalytics/git/kronos
+: 1739906459:0;git commit -m "Remove print statement"
+: 1739910875:0;rm Untitled.ipynb
+: 1739910894:0;git commit -m "Refactor scripts to use kronos library"
+: 1739910931:0;git commit -m "Add kronos library as python file dependency of dataproc jobs"
+: 1739910981:0;git config pull.rebase true
+: 1739910997:0;git pull
+: 1739911013:0;git log
+: 1739911290:0;git commit -m "Add missing commas"
+: 1739911651:0;gsutil ls gs://ma-shared-prod-pyspark-scripts/packages/kronos
+: 1739912043:0;gsutil ls gs://ma-shared-prod-pyspark-scripts/packages/kronos/kronos-0.1.0-py3-none-any.whl
+: 1739912645:0;git commit -m "Add required script params"
+: 1739913476:0;gsutil ls "gs://ma-shared-prod-pyspark-scripts/packages/**"
+: 1739921654:0;git commit -m "Stop removing package from GCS"
+: 1739921738:0;ls scripts
+: 1739921793:0;git commit -m "Change sync to only do it with scripts orgs folder"
+: 1739922399:0;git commit -m "Change id_cols param passing format"
+: 1739965248:0;git commit -m "Refactor forecast for dpa sellout weekly"
+: 1739966614:0;git commit -m "Fix error"
+: 1739979520:0;vim src/kronos/utils/preprocessing/pandas.py
+: 1739979524:0;vim src/kronos/utils/preprocessing/time.py
+: 1739979554:0;grep -ri convert .
+: 1739979563:0;vim src/kronos/preprocessing/utils.py
+: 1739979622:0;git commit -m "Add daily frequency in preprocessing submodule"
+: 1739980320:0;vim src/kronos/preprocessing/base.py
+: 1739980373:0;git commit -m "Change type hinting for frequency param"
+: 1739981584:0;git commit -m "Add debug print statements"
+: 1739982308:0;git statu
+: 1739983078:0;gsutil ls "gs://ma-shared-prod-pyspark-scripts/**"
+: 1739983220:0;gcloud dataproc batches submit pyspark report_client.py --staging-bucket=ma-shared-prod-code-pyspark --deps-bucket=ma-shared-prod-code-pyspark --region=us-central1 --project=ma-shared-prod --version=2.2 --container-image us-central1-docker.pkg.dev/ma-shared-prod/docker-images/dataproc:latest --py-files=" gs://ma-shared-prod-pyspark-scripts/packages/kronos/dist/kronos-0.1.0-py3-none-any.whl" -- --historic-input "gs://ma-data-prod-lake-lactalis-app/dpa/sellout/sales" --cutoff-date "2024-12-29", --forecast-input "gs://ma-shared-prod-models-lactalis/dpa/sellout/sales/weekly/data/2024-W52/dpa-sellout-sales-weekly-data-full-processed-2024-W52.parquet.snappy" --output "gs://ma-shared-prod-models-lactalis/test"
+: 1739983630:0;gsutil rm -r "gs://ma-shared-prod-pyspark-scripts/packages"
+: 1739983883:0;gcloud dataproc batches submit pyspark report_client.py --staging-bucket=ma-shared-prod-code-pyspark --deps-bucket=ma-shared-prod-code-pyspark --region=us-central1 --project=ma-shared-prod --version=2.2 --container-image us-central1-docker.pkg.dev/ma-shared-prod/docker-images/dataproc:latest --py-files="gs://ma-shared-prod-pyspark-scripts/packages/kronos/kronos-0.1.0-py3-none-any.whl" -- --historic-input "gs://ma-data-prod-lake-lactalis-app/dpa/sellout/sales" --cutoff-date "2024-12-29", --forecast-input "gs://ma-shared-prod-models-lactalis/dpa/sellout/sales/weekly/data/2024-W52/dpa-sellout-sales-weekly-data-full-processed-2024-W52.parquet.snappy" --output "gs://ma-shared-prod-models-lactalis/test"
+: 1739984816:0;git commit -m "Fix errors"
+: 1739986219:0;gsutil ls -lh "gs://ma-shared-prod-pyspark-scripts/**"
+: 1739989912:0;gsutil cp gs://ma-data-prod-lake-dpa-raw/sellin/demand/v1/consolidated/delta/year=2019/month=01/demand-201901.csv .
+: 1739989939:0;vim demand-201901.csv
+: 1739992649:0;gcloud dataproc batches submit pyspark report_client.py --staging-bucket=ma-shared-prod-code-pyspark --deps-bucket=ma-shared-prod-code-pyspark --region=us-central1 --project=ma-shared-prod --version=2.2 --container-image us-central1-docker.pkg.dev/ma-shared-prod/docker-images/dataproc:latest --py-files="gs://ma-shared-prod-pyspark-scripts/packages/kronos/kronos-0.1.0-py3-none-any.whl" -- --sales-input "gs://ma-data-prod-lake-lactalis-app/dpa/sellout/sales" --cutoff-date "2024-12-29", --forecast-input "gs://ma-shared-prod-models-lactalis/dpa/sellout/sales/weekly/data/2024-W52/dpa-sellout-sales-weekly-data-full-processed-2024-W52.parquet.snappy" --output "gs://ma-shared-prod-models-lactalis/test"
+: 1740052822:0;gcloud dataproc batches submit pyspark report_client.py --staging-bucket=ma-shared-prod-code-pyspark --deps-bucket=ma-shared-prod-code-pyspark --region=us-central1 --project=ma-shared-prod --version=2.2 --container-image us-central1-docker.pkg.dev/ma-shared-prod/docker-images/dataproc:latest --py-files="gs://ma-shared-prod-pyspark-scripts/packages/kronos/kronos-0.1.0-py3-none-any.whl" -- --sales-input "gs://ma-data-prod-lake-lactalis-app/dpa/sellout/sales" --cutoff-date "2024-12-29", --forecast-input "gs://ma-shared-prod-models-lactalis/dpa/sellout/sales/weekly/predictions/2024-W52/dpa-sellout-sales-weekly-forecast-2024-W52.parquet.snappy" --output "gs://ma-shared-prod-models-lactalis/test"
+: 1740053632:0;gcloud dataproc batches submit pyspark forecast.py --staging-bucket=ma-shared-prod-code-pyspark --deps-bucket=ma-shared-prod-code-pyspark --region=us-central1 --container-image us-central1-docker.pkg.dev/ma-shared-prod/dataproc-forecast/dataproc-forecast:latest --project=ma-shared-prod --py-files="gs://ma-shared-prod-pyspark-scripts/packages/kronos/dist/kronos-0.1.0-py3-none-any.whl" --properties=spark.driver.cores=16,spark.driver.memory=14336m,spark.driver.memoryOverhead=2048m,spark.executor.cores=16,spark.executor.memory=14336m,spark.executor.memoryOverhead=2048m,spark.dynamicAllocation.enabled=true,spark.reducer.fetchMigratedShuffle.enabled=true,spark.dynamicAllocation.executorAllocationRatio=0.3,spark.decommission.maxRatio=0.2,spark.dynamicAllocation.initialExecutors=50,spark.executor.instances=50 -- --input "gs://ma-shared-prod-models-lactalis/dpa/sellout/sales/weekly/data/2024-W52/dpa-sellout-sales-weekly-data-full-processed-2024-W52.parquet.snappy" --output "gs://ma-shared-prod-models-lactalis/dpa/sellout/sales/weekly/predictions/2024-W52/dpa-sellout-sales-weekly-forecast-2024-W52.parquet.snappy"
+: 1740053773:0;gcloud dataproc batches submit pyspark forecast.py --staging-bucket=ma-shared-prod-code-pyspark --deps-bucket=ma-shared-prod-code-pyspark --region=us-central1 --container-image us-central1-docker.pkg.dev/ma-shared-prod/dataproc-forecast/dataproc-forecast:latest --project=ma-shared-prod --py-files="gs://ma-shared-prod-pyspark-scripts/packages/kronos/kronos-0.1.0-py3-none-any.whl" --properties=spark.driver.cores=16,spark.driver.memory=14336m,spark.driver.memoryOverhead=2048m,spark.executor.cores=16,spark.executor.memory=14336m,spark.executor.memoryOverhead=2048m,spark.dynamicAllocation.enabled=true,spark.reducer.fetchMigratedShuffle.enabled=true,spark.dynamicAllocation.executorAllocationRatio=0.3,spark.decommission.maxRatio=0.2,spark.dynamicAllocation.initialExecutors=50,spark.executor.instances=50 -- --input "gs://ma-shared-prod-models-lactalis/dpa/sellout/sales/weekly/data/2024-W52/dpa-sellout-sales-weekly-data-full-processed-2024-W52.parquet.snappy" --output "gs://ma-shared-prod-models-lactalis/dpa/sellout/sales/weekly/predictions/2024-W52/dpa-sellout-sales-weekly-forecast-2024-W52.parquet.snappy"\
+
+: 1740053792:0;gcloud dataproc batches submit pyspark forecast.py --staging-bucket=ma-shared-prod-code-pyspark --deps-bucket=ma-shared-prod-code-pyspark --region=us-central1 --container-image us-central1-docker.pkg.dev/ma-shared-prod/dataproc-forecast/dataproc-forecast:latest --project=ma-shared-prod --py-files="gs://ma-shared-prod-pyspark-scripts/packages/kronos/kronos-0.1.0-py3-none-any.whl" --properties=spark.driver.cores=16,spark.driver.memory=14336m,spark.driver.memoryOverhead=2048m,spark.executor.cores=16,spark.executor.memory=14336m,spark.executor.memoryOverhead=2048m,spark.dynamicAllocation.enabled=true,spark.reducer.fetchMigratedShuffle.enabled=true,spark.dynamicAllocation.executorAllocationRatio=0.3,spark.decommission.maxRatio=0.2,spark.dynamicAllocation.initialExecutors=50,spark.executor.instances=50 -- --input "gs://ma-shared-prod-models-lactalis/dpa/sellout/sales/weekly/data/2024-W52/dpa-sellout-sales-weekly-data-full-processed-2024-W52.parquet.snappy" --output "gs://ma-shared-prod-models-lactalis/dpa/sellout/sales/weekly/predictions/2024-W52/dpa-sellout-sales-weekly-forecast-2024-W52.parquet.snappy"
+: 1740055201:0;gsutil cp gs://ma-shared-prod-models-lactalis/dpa/sellout/sales/weekly/predictions/2024-W52/dpa-sellout-sales-weekly-forecast-2024-W52.parquet.snappy .
+: 1740057579:0;gsutil cp gs://ma-shared-prod-models-lactalis/recent-sales.parquet .
+: 1740058453:0;gsutil cp gs://ma-shared-prod-models-lactalis/dpa/sellout/sales/weekly/data/2024-W52/dpa-sellout-sales-weekly-data-full-interim-2024-W52.parquet.snappy .
+: 1740058475:0;gsutil cp gs://ma-shared-prod-models-lactalis/dpa/sellout/sales/weekly/data/2024-W52/dpa-sellout-sales-weekly-data-full-processed-2024-W52.parquet.snappy .
+: 1740058531:0;gsutil ls gs://ma-shared-prod-models-lactalis
+: 1740058555:0;gsutil cp gs://ma-shared-prod-models-lactalis/report-dataprep-interim.parquet .
+: 1740058577:0;gsutil cp gs://ma-shared-prod-models-lactalis/report-dataprep-processed.parquet .
+: 1740059777:0;gsutil ls -lh gs://ma-shared-prod-models-lactalis/dpa/sellout/sales/weekly/data/2024-W52/dpa-sellout-sales-weekly-data-full-interim-2024-W52.parquet.snappy
+: 1740064132:0;pacman -S inkscape
+: 1740069971:0;pytest .
+: 1740076950:0;yay stayfree-desktop
+: 1740079273:0;gcloud dataproc batches submit pyspark report_client.py --staging-bucket="ma-shared-prod-code-pyspark" --deps-bucket="ma-shared-prod-code-pyspark" --region="us-central1" --project="ma-shared-prod" --version=2.2 --container-image="us-central1-docker.pkg.dev/ma-shared-prod/docker-images/dataproc:latest" --py-files="gs://ma-shared-prod-pyspark-scripts/packages/kronos/kronos-0.1.0-py3-none-any.whl" -- --sales-input "gs://ma-data-prod-lake-lactalis-app/dpa/sellout/sales" --cutoff-date "2024-12-29" --forecast-input "gs://ma-shared-prod-models-lactalis/dpa/sellout/sales/weekly/predictions/2024-W52/dpa-sellout-sales-weekly-forecast-2024-W52.parquet.snappy" --output "gs://ma-shared-prod-models-lactalis/test"
+: 1740084475:0;pythonh
+: 1740086136:0;vim preprocessing/pandas.py
+: 1740138569:0;vim src/kronos/preprocessing/pandas.py
+: 1740138583:0;git diff src/kronos/preprocessing/pandas.py
+: 1740138596:0;git add src/kronos/preprocessing/pandas.py
+: 1740138606:0;git commit -m "Remove debug print statements"
+: 1740138957:0;yay spotify
+: 1740139378:0;vim src/kronos
+: 1740139618:0;cd .....
+: 1740139621:0;cd ....
+: 1740139803:0;gcloud dataproc batches submit pyspark dataprep_interim.py --staging-bucket=ma-shared-prod-code-pyspark --deps-bucket=ma-shared-prod-code-pyspark --region=us-central1 --project=ma-shared-prod --version=2.2 --container-image us-central1-docker.pkg.dev/ma-shared-prod/docker-images/dataproc:latest --py-files="gs://ma-shared-prod-pyspark-scripts/packages/kronos/kronos-0.1.0-py3-none-any.whl" -- --input "gs://ma-data-prod-lake-lactalis-app/dpa/sellout/sales" --output "gs://ma-shared-prod-models-lactalis/dpa/sellout/sales/weekly/data/2024-W52/dpa-sellout-sales-weekly-data-full-interim-2024-W52.parquet.snappy" --cutoff-date "2024-12-29"
+: 1740139875:0;gcloud dataproc batches submit pyspark dataprep_processed.py --staging-bucket=ma-shared-prod-code-pyspark --deps-bucket=ma-shared-prod-code-pyspark --region=us-central1 --project=ma-shared-prod --version=2.2 --container-image us-central1-docker.pkg.dev/ma-shared-prod/docker-images/dataproc:latest --py-files="gs://ma-shared-prod-pyspark-scripts/packages/kronos/kronos-0.1.0-py3-none-any.whl" -- --input "gs://ma-shared-prod-models-lactalis/dpa/sellout/sales/weekly/data/2024-W52/dpa-sellout-sales-weekly-data-full-interim-2024-W52.parquet.snappy" --output "gs://ma-shared-prod-models-lactalis/dpa/sellout/sales/weekly/data/2024-W52/dpa-sellout-sales-weekly-data-full-processed-2024-W52.parquet.snappy" --id_cols distributor_id product_id --time_col date --target_col sales_volume --frequency weekly
+: 1740140161:0;vim src/kronos/datasets/demand/pandas.py
+: 1740141077:0;gcloud dataproc batches submit pyspark forecast.py --staging-bucket="ma-shared-prod-code-pyspark" --deps-bucket="ma-shared-prod-code-pyspark" --region="us-central1" --project="ma-shared-prod" --version=2.2 --container-image="us-central1-docker.pkg.dev/ma-shared-prod/docker-images/dataproc:latest" --py-files="gs://ma-shared-prod-pyspark-scripts/packages/kronos/kronos-0.1.0-py3-none-any.whl" --properties="spark.driver.cores=16,spark.driver.memory=14336m,spark.driver.memoryOverhead=2048m,spark.executor.cores=16,spark.executor.memory=14336m,spark.executor.memoryOverhead=2048m,spark.dynamicAllocation.enabled=true,spark.reducer.fetchMigratedShuffle.enabled=true,spark.dynamicAllocation.executorAllocationRatio=0.3,spark.decommission.maxRatio=0.2,spark.dynamicAllocation.initialExecutors=50,spark.executor.instances=50" -- --input "gs://ma-shared-prod-models-lactalis/dpa/sellout/sales/weekly/data/2024-W52/dpa-sellout-sales-weekly-data-full-processed-2024-W52.parquet.snappy" --output "gs://ma-shared-prod-models-lactalis/dpa/sellout/sales/weekly/predictions/2024-W52/dpa-sellout-sales-weekly-forecast-2024-W52.parquet.snappy"
+: 1740141698:0;gnome-text-editor forecast.py
+: 1740146688:0;gsutil cp Base_Sellout_20250214.csv gs://mat-data-prod-data-lake-dpa-esales-raw/daily/2025-02-14/
+: 1740146713:0;gsutil cp Base_Sellout_20250215.csv gs://mat-data-prod-data-lake-dpa-esales-raw/daily/2025-02-15/
+: 1740146740:0;gsutil cp Base_Sellout_20250216.csv gs://mat-data-prod-data-lake-dpa-esales-raw/daily/2025-02-16/
+: 1740146769:0;gsutil cp Base_Sellout_20250217.csv gs://mat-data-prod-data-lake-dpa-esales-raw/daily/2025-02-17/
+: 1740146793:0;gsutil cp Base_Sellout_20250218.csv gs://mat-data-prod-data-lake-dpa-esales-raw/daily/2025-02-18/
+: 1740146815:0;gsutil cp Base_Sellout_20250219.csv gs://mat-data-prod-data-lake-dpa-esales-raw/daily/2025-02-19/
+: 1740146841:0;gsutil cp Base_Sellout_20250220.csv gs://mat-data-prod-data-lake-dpa-esales-raw/daily/2025-02-20/
+: 1740162696:0;gcloud dataproc batches submit pyspark forecast.py --staging-bucket="ma-shared-prod-code-pyspark" --deps-bucket="ma-shared-prod-code-pyspark" --region="us-central1" --project="ma-shared-prod" --version=2.2 --container-image="us-central1-docker.pkg.dev/ma-shared-prod/docker-images/dataproc:latest" --py-files="gs://ma-shared-prod-pyspark-scripts/packages/kronos/kronos-0.1.0-py3-none-any.whl" -- --input "gs://ma-shared-prod-models-lactalis/dpa/sellout/sales/weekly/data/2024-W52/dpa-sellout-sales-weekly-data-full-processed-2024-W52.parquet.snappy" --output "gs://ma-shared-prod-models-lactalis/dpa/sellout/sales/weekly/predictions/2024-W52/dpa-sellout-sales-weekly-forecast-2024-W52.parquet.snappy"
+: 1740163055:0;cp forecast.py ~/
+: 1740164538:0;pip install dataproc-jupyter-plugin
+: 1740164653:0;gcloud config set project ma-shared-prod
+: 1740164671:0;gcloud auth application-default set-quota-project
+: 1740164679:0;gcloud auth application-default set-quota-project ma-shared-prod
+: 1740400407:0;pip uninstall dataproc-jupyter-plugin\
+
+: 1740404606:0;gsutil ls gs://ma-shared-prod-code-pyspark
+: 1740404677:0;gsutil ls gs://ma-shared-prod-code-pyspark/dependencies
+: 1740404712:0;gsutil ls -lh gs://ma-shared-prod-code-pyspark/dependencies
+: 1740404742:0;gsutil ls -lh gs://ma-shared-prod-code-pyspark/dependencies\forecast.py
+: 1740409221:0;gcloud ls -l ma-shared-prod-poc-experiments
+: 1740409228:0;gcloud ls -l gs://ma-shared-prod-poc-experiments
+: 1740409237:0;gsutil ls -l gs://ma-shared-prod-poc-experiments
+: 1740409314:0;gsutil cp ~/Downloads/sales.csv gs://ma-shared-prod-poc-experiments/
+: 1740409340:0;gsutil ls -l gs://ma-shared-prod-poc-experiments/
+: 1740409413:0;gsutil mv gs://ma-shared-prod-poc-experiments/sales.csv gs://ma-shared-prod-poc-experiments/data/sales.csv
+: 1740409439:0;gsutil ls -lh gs://ma-shared-prod-poc-experiments/
+: 1740419370:0;cd ~/Downloads
+: 1740419386:0;mv forecast\ \(1\).py forecast-pedro.py
+: 1740419390:0;pyenv activate mat
+: 1740419396:0;python forecast-pedro.py
+: 1740419642:0;rm forecast-pedro.py
+: 1740419645:0;rm forecast.py
+: 1740419784:0;ls forecast.py
+: 1740420820:0;gcloud dataproc batches submit pyspark forecast.py --staging-bucket="ma-shared-prod-code-pyspark" --deps-bucket="ma-shared-prod-code-pyspark" --region="us-central1" --project="ma-shared-prod" --version=2.2 --container-image="us-central1-docker.pkg.dev/ma-shared-prod/docker-images/dataproc:latest" --py-files="gs://ma-shared-prod-pyspark-scripts/packages/kronos/kronos-0.1.0-py3-none-any.whl"
+: 1740424065:0;pacman -S eog
+: 1740424131:0;gsutil ls -lh "gs://ma-shared-prod-poc-experiments/**"
+: 1740425020:0;cd Work/mathanalytics/git/data-pipelines/scripts/orgs/lactalis/dpa/sellout/models/sales/weekly
+: 1740425025:0;cat forecast.py
+: 1740425036:0;rcat forecast.py
+: 1740426039:0;gcloud dataproc batches submit pyspark forecast.py --staging-bucket="ma-shared-prod-code-pyspark" --deps-bucket="ma-shared-prod-code-pyspark" --region="us-central1" --project="ma-shared-prod" --version=2.2 --container-image="us-central1-docker.pkg.dev/ma-shared-prod/docker-images/dataproc:latest" --py-files="gs://ma-shared-prod-pyspark-scripts/packages/kronos/kronos-0.1.0-py3-none-any.whl" --properties="spark.driver.cores=16,spark.driver.memory=14336m,spark.driver.memoryOverhead=2048m,spark.executor.cores=16,spark.executor.memory=14336m,spark.executor.memoryOverhead=2048m,spark.dynamicAllocation.enabled=true,spark.reducer.fetchMigratedShuffle.enabled=true,spark.dynamicAllocation.executorAllocationRatio=0.3,spark.decommission.maxRatio=0.2,spark.dynamicAllocation.initialExecutors=50,spark.executor.instances=50"
+: 1740450505:0;python forecast.py
+: 1740512161:0;cd taurus
+: 1740512170:0;vim experiment.py
+: 1740512269:0;rcat experiment.py
+: 1740592982:0;pip install statsforecast --upgrade
+: 1740614129:0;gsutil ls gs://mat-data-prod-filemage-storage
+: 1740614167:0;gsutil ls "gs://mat-data-prod-filemage-storage/clients/itambe/datasets/**"
+: 1740614242:0;gsutil ls "gs://mat-data-prod-filemage-storage/clients/itambe/**"
+: 1740614278:0;gsutil ls "gs://mat-data-prod-filemage-storage/clients/itambe/sellin/datasets/Teste layout/**"
+: 1740614318:0;gsutil ls "gs://mat-data-prod-filemage-storage/clients/itambe/sellin/datasets/Teste layout/BASE DE PEDIDOS 06.22 - 01.25/**"
+: 1740614348:0;gsutil -m cp -r "gs://mat-data-prod-filemage-storage/clients/itambe/sellin/datasets/Teste layout/BASE DE PEDIDOS 06.22 - 01.25/" .
+: 1740614391:0;gsutil cp -r "gs://mat-data-prod-filemage-storage/clients/itambe/sellin/datasets/Teste layout/BASE DE PEDIDOS 06.22 - 01.25/" .
+: 1740614415:0;mkdir sales
+: 1740614442:0;gsutil cp "gs://mat-data-prod-filemage-storage/clients/itambe/sellin/datasets/Teste layout/BASE DE PEDIDOS 06.22 - 01.25/2022/*" .
+: 1740614474:0;gsutil cp -m "gs://mat-data-prod-filemage-storage/clients/itambe/sellin/datasets/Teste layout/BASE DE PEDIDOS 06.22 - 01.25/2022/*" .
+: 1740614487:0;gsutil -m cp "gs://mat-data-prod-filemage-storage/clients/itambe/sellin/datasets/Teste layout/BASE DE PEDIDOS 06.22 - 01.25/2022/*" .
+: 1740614548:0;mkdir 2022
+: 1740614553:0;mv *.txt 2002
+: 1740614565:0;mv *.txt 2002/
+: 1740614577:0;mv "*.txt" 2022
+: 1740614612:0;cp *.txt 2022
+: 1740614625:0;rm -rf *.txt
+: 1740614634:0;mkdir 2023
+: 1740614648:0;gsutil -m cp "gs://mat-data-prod-filemage-storage/clients/itambe/sellin/datasets/Teste layout/BASE DE PEDIDOS 06.22 - 01.25/2023/*" .
+: 1740614735:0;mkdir 2024
+: 1740614741:0;gsutil -m cp "gs://mat-data-prod-filemage-storage/clients/itambe/sellin/datasets/Teste layout/BASE DE PEDIDOS 06.22 - 01.25/2024/*" .
+: 1740614814:0;cp *.txt 2024
+: 1740614819:0;rm *.txt
+: 1740614826:0;rm -f *.txt
+: 1740614831:0;mkdir 2025
+: 1740614834:0;cd 2025
+: 1740614854:0;gsutil -m cp "gs://mat-data-prod-filemage-storage/clients/itambe/sellin/datasets/Teste layout/BASE DE PEDIDOS 06.22 - 01.25/2025/*" .
+: 1740614908:0;cd data/itambe
+: 1740614921:0;mkdir others
+: 1740614938:0;gsutil ls "gs://mat-data-prod-filemage-storage/clients/itambe/sellin/datasets/Teste layout/"
+: 1740614974:0;cd others
+: 1740614978:0;gsutil cp gs://mat-data-prod-filemage-storage/clients/itambe/sellin/datasets/Teste layout/DExPARA Skus ITAMBÃƒ©.xlsx .
+: 1740614997:0;gsutil cp "gs://mat-data-prod-filemage-storage/clients/itambe/sellin/datasets/Teste layout/DExPARA Skus ITAMBÃƒ©.xlsx" .
+: 1740615040:0;mkdir reports
+: 1740615045:0;mv Acuracidade\ JAN.25.xlsx reports
+: 1740615058:0;mv Motivos\ de\ recusa\ -\ fator.xlsx others
+: 1740615175:0;cd Downloads
+: 1740616101:0;topm
+: 1740616524:0;vim ../data/itambe/sales/2023/01022023-15022023.txt
+: 1740658825:0;cd new-launch
+: 1740659085:0;cd Work/mathanalytics/git/data-pipelines/scripts/orgs/lactalis/dpa/sellout/models/sales
+: 1740659093:0;rcat dataprep_interim.py
+: 1740659703:0;jupyte rlab
+: 1740693840:0;cd models/nixtla
+: 1740694108:0;python utils.py
+: 1740739431:0;pacman -S pinta
+: 1740757726:0;gsutil cp Base_Sellout_20250221.csv gs://mat-data-prod-data-lake-dpa-esales-raw/daily/2025-02-21/
+: 1740757805:0;gsutil cp Base_Sellout_20250222.csv gs://mat-data-prod-data-lake-dpa-esales-raw/daily/2025-02-22/
+: 1740757859:0;gsutil cp Base_Sellout_20250223.csv gs://mat-data-prod-data-lake-dpa-esales-raw/daily/2025-02-23/
+: 1740757884:0;gsutil cp Base_Sellout_20250224.csv gs://mat-data-prod-data-lake-dpa-esales-raw/daily/2025-02-24/
+: 1740757916:0;gsutil cp Base_Sellout_20250225.csv gs://mat-data-prod-data-lake-dpa-esales-raw/daily/2025-02-25/
+: 1740758029:0;gsutil cp Base_Sellout_20250226.csv gs://mat-data-prod-data-lake-dpa-esales-raw/daily/2025-02-26/
+: 1740758052:0;gsutil cp Base_Sellout_20250227.csv gs://mat-data-prod-data-lake-dpa-esales-raw/daily/2025-02-27/
+: 1740760796:0;pacman -S tinycss2
+: 1740760831:0;pacman -S python-tinycss2
+: 1740760929:0;pacman -S gimp
+: 1740767647:0;ls 2022
+: 1741009298:0;cd t2
+: 1741023939:0;mv utils.py models.py
+: 1741023968:0;mkdir evaluation
+: 1741023973:0;touch evaluation/__init__.py
+: 1741127630:0;pyenv activate
+: 1741192906:0;cat models.py
+: 1741192910:0;rcat models.py
+: 1741199879:0;cd evaluation
+: 1741347098:0;python pandas.py
+: 1741351793:0;rcat pandas.py
+: 1741352526:0;rcat utils.py
+: 1741428758:0;gsutil cp Base_Sellout_20250228.csv gs://mat-data-prod-data-lake-dpa-esales-raw/daily/2025-02-28/
+: 1741428844:0;gsutil cp Base_Sellout_20250301.csv gs://mat-data-prod-data-lake-dpa-esales-raw/daily/2025-03-01/
+: 1741428870:0;gsutil cp Base_Sellout_20250302.csv gs://mat-data-prod-data-lake-dpa-esales-raw/daily/2025-03-02/
+: 1741428896:0;gsutil cp Base_Sellout_20250303.csv gs://mat-data-prod-data-lake-dpa-esales-raw/daily/2025-03-03/
+: 1741428921:0;gsutil cp Base_Sellout_20250304.csv gs://mat-data-prod-data-lake-dpa-esales-raw/daily/2025-03-04/
+: 1741428945:0;gsutil cp Base_Sellout_20250305.csv gs://mat-data-prod-data-lake-dpa-esales-raw/daily/2025-03-05/
+: 1741428969:0;gsutil cp Base_Sellout_20250306.csv gs://mat-data-prod-data-lake-dpa-esales-raw/daily/2025-03-06/
+: 1741428993:0;gsutil cp Base_Sellout_20250307.csv gs://mat-data-prod-data-lake-dpa-esales-raw/daily/2025-03-07/
+: 1741629752:0;gsutil ls --project ma-data-prod
+: 1741629839:0;gsutil rm gs://ma-data-prod-lake-dpa-raw/sellin/demand/v1/consolidated/delta/year=2025/month=02/demand-202502.csv
+: 1741692689:0;pip install hierarchicalforecast
+: 1741692737:0;pip install datasetsforecast
+: 1741695714:0;cd Work/mathanalytics/git/kronos/src/kronos/models/nixtla/statsforecast
+: 1741696018:0;rcat evaluation/losses.py
+: 1741698376:0;vim evaluation/losses.py
+: 1741710127:0;mkdir utils
+: 1741710149:0;mkdir utils/evaluation
+: 1741710153:0;touch utils/__init__.py
+: 1741710170:0;cp statsforecast/evaluation/losses.py utils/evaluation
+: 1741710190:0;ls utils.py
+: 1741710198:0;tree utils
+: 1741710213:0;touch utils/evaluation/__init__.py
+: 1741710216:0;vim utils/evaluation/losses.py
+: 1741710362:0;ls evaluation
+: 1741710369:0;rm -rf evaluation
+: 1741710374:0;rm -rf __pycache__
+: 1741733673:0;pip install neuralforecast
+: 1741778107:0;pip install mlforecast
+: 1741781111:0;mkdir models
+: 1741781116:0;touch models/__init__.py
+: 1741781135:0;vim families.py
+: 1741784264:0;mkdir dataprep
+: 1741784281:0;touch dataprep/__init__.py
+: 1741786396:0;cd itambe
+: 1741786411:0;vim 01102022-151022.txt
+: 1741786462:0;vim 16102022-301022.txt
+: 1741788052:0;cp 01082022-15082022.txt new/orders-2022-08-p1.txt
+: 1741788077:0;cp 01092022-15092022.txt new/orders-2022-09-p1.txt
+: 1741788103:0;cp 01102022-151022.txt new/orders-2022-10-p1.txt
+: 1741788147:0;cp 01112022-15112022.txt new/orders-2022-11-p1.txt
+: 1741788179:0;cp 01122022-15122022.txt new/orders-2022-12-p1.txt
+: 1741788204:0;cp 150722-31072022.txt new/orders-2022-07-p2.txt
+: 1741788278:0;cp 300622-15072022.txt new/orders-2022-07-p1-with-2022-06.txt
+: 1741788301:0;cp 16082022-31082022.txt new/orders-2022-08-p2.txt
+: 1741788321:0;cp 16092022-31092022.txt new/orders-2022-09-p2.txt
+: 1741788357:0;cp 16102022-301022.txt new/orders-2022-10-p2.txt
+: 1741788369:0;cp 16112022-31112022.txt new/orders-2022-11-p2.txt
+: 1741788382:0;cp 16122022-31122022.txt new/orders-2022-12-p2.txt
+: 1741788384:0;ls new
+: 1741788416:0;cd new
+: 1741788437:0;mv orders-2022-07-p1-with-2022-06.txt orders-2022-07-part1-with-2022-06.txt
+: 1741788453:0;mv orders-2022-07-p2.txt orders-2022-07-part2.txt
+: 1741788489:0;mv orders-2022-08-p1.txt orders-2022-08-part1.txt
+: 1741788499:0;mv orders-2022-08-p2.txt orders-2022-08-part2.txt
+: 1741788511:0;mv orders-2022-09-p1.txt orders-2022-09-part1.txt
+: 1741788517:0;mv orders-2022-09-p2.txt orders-2022-09-part2.txt
+: 1741788533:0;mv orders-2022-10-p1.txt orders-2022-10-part1.txt
+: 1741788542:0;mv orders-2022-10-p2.txt orders-2022-10-part2.txt
+: 1741788549:0;mv orders-2022-11-p1.txt orders-2022-11-part1.txt
+: 1741788556:0;mv orders-2022-11-p2.txt orders-2022-11-part2.txt
+: 1741788595:0;mv orders-2022-12-p1.txt orders-2022-12-part1.txt
+: 1741788602:0;mv orders-2022-12-p2.txt orders-2022-12-part2.txt
+: 1741788663:0;cd 2023
+: 1741788832:0;cp 01012023-15012023.txt new/orders-2023-01-part1.txt
+: 1741788850:0;cp 16012023-31012023.txt new/orders-2023-01-part2.txt
+: 1741788862:0;cp 01022023-15022023.txt new/orders-2023-02-part1.txt
+: 1741788883:0;cp 16022023-28022023.txt new/orders-2023-02-part2.txt
+: 1741788918:0;cp 01032023-15032023.txt new/orders-2023-03-part1.txt
+: 1741788935:0;cp 16032023-31032023.txt new/orders-2023-03-part2.txt
+: 1741788953:0;cp 01042023-15042023.txt new/orders-2023-04-part1.txt
+: 1741788999:0;cp 16042023-30042023.txt new/orders-2023-04-part2.txt
+: 1741789014:0;cp 01052023-15052023.txt new/orders-2023-05-part1.txt
+: 1741789030:0;cp 16052023-31052023.txt new/orders-2023-05-part2.txt
+: 1741789042:0;cp 01062023-15062023.txt new/orders-2023-06-part1.txt
+: 1741789052:0;cp 16062023-30062023.txt new/orders-2023-06-part2.txt
+: 1741789074:0;cp 01072023-15072023.txt new/orders-2023-07-part1.txt
+: 1741789107:0;cp 16072023-31072023.txt new/orders-2023-07-part2.txt
+: 1741789121:0;cp 01082023-15082023.txt new/orders-2023-08-part1.txt
+: 1741789145:0;cp 16082023-31082023.txt new/orders-2023-08-part2.txt
+: 1741789162:0;cp 01092023-15092023.txt new/orders-2023-09-part1.txt
+: 1741789171:0;cp 16092023-30092023.txt new/orders-2023-09-part2.txt
+: 1741789181:0;cp 01102023-15102023.txt new/orders-2023-10-part1.txt
+: 1741789194:0;cp 16102023-31102023.txt new/orders-2023-10-part2.txt
+: 1741789205:0;cp 01112023-15112023.txt new/orders-2023-11-part1.txt
+: 1741789213:0;cp 16112023-30112023.txt new/orders-2023-11-part2.txt
+: 1741789250:0;cp 01122023-15122023.txt new/orders-2023-12-part1.txt
+: 1741789259:0;cp 16122023-31122023.txt new/orders-2023-12-part2.txt
+: 1741789296:0;cd 2024
+: 1741789301:0;mkdir new
+: 1741789324:0;cp 01012024-15012024.txt new/orders-2024-01-part1.txt
+: 1741789332:0;cp 16012024-31012024.txt new/orders-2024-01-part2.txt
+: 1741789343:0;cp 01022024-15022024.txt new/orders-2024-02-part1.txt
+: 1741789352:0;cp 16022024-29022024.txt new/orders-2024-02-part2.txt
+: 1741789364:0;cp 01032024-15032024.txt new/orders-2024-03-part1.txt
+: 1741789372:0;cp 16032024-31032024.txt new/orders-2024-03-part2.txt
+: 1741789385:0;cp 01042024-15042024.txt new/orders-2024-04-part1.txt
+: 1741789405:0;cp 16042024-30042024.txt new/orders-2024-04-part2.txt
+: 1741789416:0;cp 01052024-15052024.txt new/orders-2024-05-part1.txt
+: 1741789439:0;cp 16052024-31052024.txt new/orders-2024-05-part2.txt
+: 1741789453:0;cp 01062024-15062024.txt new/orders-2024-06-part1.txt
+: 1741789461:0;cp 16062024-30062024.txt new/orders-2024-06-part2.txt
+: 1741789471:0;cp 01072024-15072024.txt new/orders-2024-07-part1.txt
+: 1741789480:0;cp 16072024-31072024.txt new/orders-2024-07-part2.txt
+: 1741789493:0;cp 01082024-15082024.txt new/orders-2024-08-part1.txt
+: 1741789501:0;cp 16082024-31082024.txt new/orders-2024-08-part2.txt
+: 1741789517:0;cp 01092024-15092024.txt new/orders-2024-09-part1.txt
+: 1741789526:0;cp 16092024-30092024.txt new/orders-2024-09-part2.txt
+: 1741789540:0;cp 01102024-15102024.txt new/orders-2024-10-part1.txt
+: 1741789552:0;cp 16102024-31102024.txt new/orders-2024-10-part2.txt
+: 1741789568:0;cp 01112024-15112024.txt new/orders-2024-11-part1.txt
+: 1741789577:0;cp 16112024-30112024.txt new/orders-2024-11-part2.txt
+: 1741789590:0;cp 01122024-15122024.txt new/orders-2024-12-part1.txt
+: 1741789609:0;cp 16122024-31122024.txt new/orders-2024-12-part2.txt
+: 1741789615:0;ls -lh new
+: 1741789646:0;mkdir NEW
+: 1741789654:0;mv */new/* NEW
+: 1741789662:0;ls 2022/new
+: 1741789672:0;ls -lh NEW
+: 1741789714:0;cp 2025/01012025-15012025.txt NEW/orders-2025-01-part1.txt
+: 1741789745:0;cp 2025/16012025-31012025.txt NEW/orders-2025-01-part2.txt
+: 1741797585:0;cd ls u
+: 1741797625:0;vim co
+: 1741797636:0;cd statsforecast
+: 1741797803:0;ls dataprep
+: 1741797867:0;cp statsforecast/*.py .
+: 1741797882:0;ls statsforecast
+: 1741797886:0;rm -rf statsforecast
+: 1741797977:0;rm core.py
+: 1741797989:0;mv pandas.py core.py
+: 1741798210:0;vim models/families.py
+: 1741800238:0;vim NEW
+: 1741800299:0;vim NEW/orders-2022-07-part1-with-2022-06.txt
+: 1741800349:0;vim 150722-31072022.txt
+: 1741800361:0;vim 300622-15072022.txt
+: 1741800468:0;diff 300622-15072022.txt 150722-31072022.txt
+: 1741800477:0;diff 300622-15072022.txt 01082022-15082022.txt
+: 1741807616:0;cd datasets/demand
+: 1741824734:0;ls -lh .
+: 1741824741:0;ls NEW
+: 1741824753:0;vim 01072022-15072022.txt
+: 1741824779:0;mv 01072022-15072022.txt NEW/orders-2022-07-part1.txt
+: 1741824800:0;mv 16072022-31072022.txt NEW/orders-2022-07-part2.txt
+: 1741824824:0;mv 01102022-15102022.txt NEW/orders-2022-10-part1.txt
+: 1741824838:0;mv 16102022-31102022.txt NEW/orders-2022-10-part2.txt
+: 1741824868:0;mv 01122024-15122024.txt NEW/orders-2024-12-part1.txt
+: 1741824882:0;mv 16122024-31122024.txt NEW/orders-2024-12-part2.txt
+: 1741824902:0;mv 01022025-15022025.txt NEW/orders-2025-02-part1.txt
+: 1741824916:0;mv 16022025-28022025.txt NEW/orders-2025-02-part2.txt
+: 1741825227:0;cd NEW
+: 1741825240:0;rm orders-2022-07-part1-with-2022-06.txt
+: 1741908756:0;mv demand orders
+: 1741908758:0;cd orders
+: 1741909380:0;vim mlforecast.py
+: 1741973271:0;cd datasets
+: 1741973274:0;vim __init__.py
+: 1741973287:0;cd orders/
+: 1741973299:0;vim base.py
+: 1741973368:0;vim pandas.py
+: 1741973398:0;vim transformer.py
+: 1741973441:0;vim factory.py
+: 1742130621:0;CD
+: 1742130928:0;gsutil cp Base_Sellout_20250308.csv gs://mat-data-prod-data-lake-dpa-esales-raw/daily/2025-03-08/
+: 1742131036:0;gsutil cp Base_Sellout_20250309.csv gs://mat-data-prod-data-lake-dpa-esales-raw/daily/2025-03-09/
+: 1742131062:0;gsutil cp Base_Sellout_20250310.csv gs://mat-data-prod-data-lake-dpa-esales-raw/daily/2025-03-10/
+: 1742131087:0;gsutil cp Base_Sellout_20250311.csv gs://mat-data-prod-data-lake-dpa-esales-raw/daily/2025-03-11/
+: 1742131113:0;gsutil cp Base_Sellout_20250312.csv gs://mat-data-prod-data-lake-dpa-esales-raw/daily/2025-03-12/
+: 1742131327:0;gsutil cp Base_Sellout_20250313.csv gs://mat-data-prod-data-lake-dpa-esales-raw/daily/2025-03-13/
+: 1742134444:0;gsutil cp Base_Sellout_20250314.csv gs://mat-data-prod-data-lake-dpa-esales-raw/daily/2025-03-14/
+: 1742134618:0;pacman -S imagemagick
+: 1742134785:0;gsutil cp Base_Sellout_20250315.csv gs://mat-data-prod-data-lake-dpa-esales-raw/daily/2025-03-15/
+: 1742136950:0;gsutil cp Base_Sellout_20250316.csv gs://mat-data-prod-data-lake-dpa-esales-raw/daily/2025-03-16/
+: 1742242457:0;cd Work
+: 1742242463:0;cd mathanalytics/analysis/dpa-sellin
+: 1742350259:0;gsutil ls gs://ma-shared-prod-models-lactalis/
+: 1742350315:0;gsutil cp -r ./lactalis gs://ma-shared-prod-models-lactalis/analysis
+: 1742350339:0;gsutil -m cp -r ./lactalis gs://ma-shared-prod-models-lactalis/analysis
+: 1742350408:0;gsutil ls -lh "gs://ma-shared-prod-models-lactalis/analysis/**"
+: 1743282908:0;gsutil cp Base_Sellout_20250324.csv gs://mat-data-prod-data-lake-dpa-esales-raw/daily/2025-03-24/
+: 1743282936:0;gsutil cp Base_Sellout_20250325.csv gs://mat-data-prod-data-lake-dpa-esales-raw/daily/2025-03-25/
+: 1743282991:0;gsutil cp Base_Sellout_20250326.csv gs://mat-data-prod-data-lake-dpa-esales-raw/daily/2025-03-26/
+: 1743283023:0;gsutil cp Base_Sellout_20250327.csv gs://mat-data-prod-data-lake-dpa-esales-raw/daily/2025-03-27/
+: 1743286837:0;gsutil cp Base_Sellout_20250328.csv gs://mat-data-prod-data-lake-dpa-esales-raw/daily/2025-03-28/
+: 1743359722:0;ls lactalis/data
+: 1743359730:0;ls lactalis/notebooks
+: 1743359770:0;cp dpa-sellin/notebooks/t2/sellin-itp-demand-adjustment.ipynb lactalis/notebooks/dpa-sellin-itp-demand-adjustment.ipynb
+: 1743422389:0;vim src/kronos/datasets/orders/pandas.py
+: 1743423491:0;cd Work/mathanalytics/analysis/dpa-sellin
+: 1743616080:0;cd kronos
+: 1743616084:0;cd nixtla
+: 1743617633:0;vim utils/dataprep/utils.py
+: 1743617640:0;vim utils
+: 1743617644:0;vim utils.py
+: 1743617724:0;vim models
+: 1743617728:0;vim models.py
+: 1743617745:0;mv models.py models/stats.py
+: 1743618163:0;mv utils.py utils/dataprep.py
+: 1743618171:0;cd utils
+: 1743618192:0;vim dataprep/utils.py
+: 1743618231:0;rm -rf dataprep/
+: 1743623635:0;vim models/stats.py
+: 1743655978:0;vim core.py
+: 1743661611:0;lscpu
+: 1743662171:0;vim utils/dataprep.py
+: 1743781502:0;gsutil ls "gs://mat-data-prod-data-lake-dpa-esales-raw/**"
+: 1743781588:0;gsutil cp Base_Sellout_20250329.csv gs://mat-data-prod-data-lake-dpa-esales-raw/daily/2025-03-29/
+: 1743781695:0;gsutil cp Base_Sellout_20250330.csv gs://mat-data-prod-data-lake-dpa-esales-raw/daily/2025-03-30/
+: 1743781751:0;gsutil cp Base_Sellout_20250402.csv gs://mat-data-prod-data-lake-dpa-esales-raw/daily/2025-04-02/
+: 1743782033:0;gsutil cp Base_Sellout_20250403.csv gs://mat-data-prod-data-lake-dpa-esales-raw/daily/2025-04-03/
+: 1743782113:0;gsutil cp Base_Sellout_20250331.csv gs://mat-data-prod-data-lake-dpa-esales-raw/daily/2025-03-31/
+: 1744127871:0;pacman -S pdfunite
+: 1744127945:0;pdfunite declaracao-*.pdf declaracao-nao-optante.pdf
+: 1744128009:0;cd declarao-vt
+: 1744128053:0;pdfunite declaracao-*.pdf declaracao-nao-optante-clt-2025-04-08.pdf
+: 1744128130:0;pdfunite declaracao-*.pdf declaracao-nao-optante-curitiba-2025-04-08.pdf
+: 1744128923:0;cd recibo-VA
+: 1744128946:0;pdfunite recibo-* recibo-va-2025-04-08.pdf
+: 1744375519:0;gsutil cp Base_Sellout_20250404.csv gs://mat-data-prod-data-lake-dpa-esales-raw/daily/2025-04-04/
+: 1744375555:0;gsutil cp Base_Sellout_20250405.csv gs://mat-data-prod-data-lake-dpa-esales-raw/daily/2025-04-05/
+: 1744375608:0;gsutil cp Base_Sellout_20250406.csv gs://mat-data-prod-data-lake-dpa-esales-raw/daily/2025-04-06/
+: 1744375633:0;gsutil cp Base_Sellout_20250407.csv gs://mat-data-prod-data-lake-dpa-esales-raw/daily/2025-04-07/
+: 1744375662:0;gsutil cp Base_Sellout_20250408.csv gs://mat-data-prod-data-lake-dpa-esales-raw/daily/2025-04-08/
+: 1744375830:0;gsutil cp Base_Sellout_20250409.csv gs://mat-data-prod-data-lake-dpa-esales-raw/daily/2025-04-09/
+: 1744375906:0;gsutil cp Base_Sellout_20250410.csv gs://mat-data-prod-data-lake-dpa-esales-raw/daily/2025-04-10/
+: 1744651542:0;gsutil ls -lh "gs://ma-data-prod-lake-dpa-raw/**"
+: 1744651710:0;gsutil rm gs://ma-data-prod-lake-dpa-raw/sellin/demand/v1/transient/full/demand-current.csv
+: 1744651731:0;gsutil rm gs://ma-data-prod-lake-dpa-std/sellin/demand/transient/full/
+: 1744651743:0;gsutil ls gs://ma-data-prod-lake-dpa-std/sellin/demand/transient/full/
+: 1744651779:0;gsutil rm -r gs://ma-data-prod-lake-dpa-std/sellin/demand/transient/
+: 1744651800:0;gsutil ls gs://ma-data-prod-lake-dpa-std/sellin/demand/
+: 1744651815:0;gsutil ls gs://ma-data-prod-lake-dpa-cls/sellin/demand/
+: 1744651835:0;gsutil rm -r gs://ma-data-prod-lake-dpa-cls/sellin/demand/transient
+: 1744652134:0;gsutil cp gs://us-central1-airflow-env-20277b63-bucket/dags/mathanalytics/data_pipelines/clients/dpa/scripts/sellin/demand_aggregate.py .
+: 1744652151:0;vim demand_aggregate.py
+: 1744652261:0;gsutil cp demand_aggregate.py gs://us-central1-airflow-env-20277b63-bucket/dags/mathanalytics/data_pipelines/clients/dpa/scripts/sellin/
+: 1744660347:0;pacman -S chromium
+: 1744931523:0;cd recibo-adiantamento-sp
+: 1744931553:0;pdfunite recibo-* recibo-adiantamento-salario-sp-2025-04.pdf
+: 1745003118:0;yay easyeffects
+: 1745081843:0;gsutil cp Base_Sellout_20250411.csv gs://mat-data-prod-data-lake-dpa-esales-raw/daily/2025-04-11/
+: 1745081957:0;gsutil cp Base_Sellout_20250412.csv gs://mat-data-prod-data-lake-dpa-esales-raw/daily/2025-04-12/
+: 1745081984:0;gsutil cp Base_Sellout_20250413.csv gs://mat-data-prod-data-lake-dpa-esales-raw/daily/2025-04-13/
+: 1745082008:0;gsutil cp Base_Sellout_20250414.csv gs://mat-data-prod-data-lake-dpa-esales-raw/daily/2025-04-14/
+: 1745082033:0;gsutil cp Base_Sellout_20250415.csv gs://mat-data-prod-data-lake-dpa-esales-raw/daily/2025-04-15/
+: 1745082054:0;gsutil cp Base_Sellout_20250416.csv gs://mat-data-prod-data-lake-dpa-esales-raw/daily/2025-04-16/
+: 1745082081:0;gsutil cp Base_Sellout_20250417.csv gs://mat-data-prod-data-lake-dpa-esales-raw/daily/2025-04-17/
+: 1745096715:0;cd Work/mathanalytics/analysis
+: 1745096744:0;mkdir predictions
+: 1745096749:0;mkdir lactalis
+: 1745096752:0;mkdir dpa
+: 1745096754:0;mkdir itambe
+: 1745096761:0;ls reports
+: 1745096773:0;ls reports/lactalis
+: 1745096808:0;mv reports/lactalis/lactalis-sellin-monthly-forecast-202* predictions/lactalis
+: 1745096812:0;ls predictions
+: 1745096815:0;ls predictions/lactalis
+: 1745096911:0;rm *
+: 1745096921:0;rm -f *
+: 1745097088:0;mv Base\ Lactalis\ -\ 2* raw/
+: 1745097101:0;rm demand-202502.csv
+: 1745097122:0;mkdir external
+: 1745097129:0;mv DePara\ Centros.xlsx external
+: 1745097148:0;ls external
+: 1745097156:0;ls raw
+: 1745097536:0;mkdir processed
+: 1745097820:0;rm sales-processed-full-2025-03.csv
+: 1745099599:0;cd Work/mathanalytics/git/kronos/src/kronos/models/nixtla/utils/evaluation
+: 1745099603:0;vim losses.py
+: 1745322508:0;cd Work/mathanalytics/git/kronos
+: 1745322530:0;git commit -m "major update"
+: 1746190281:0;gsutil ls "gs://mat-data-prod-data-lake-dpa-esales-raw/daily/**"
+: 1746190458:0;gsutil cp Base_Sellout_20250428.csv gs://mat-data-prod-data-lake-dpa-esales-raw/daily/2025-04-28/
+: 1746190485:0;gsutil cp Base_Sellout_20250429.csv gs://mat-data-prod-data-lake-dpa-esales-raw/daily/2025-04-29/
+: 1746190514:0;gsutil cp Base_Sellout_20250430.csv gs://mat-data-prod-data-lake-dpa-esales-raw/daily/2025-04-30/
+: 1746190543:0;gsutil cp Base_Sellout_20250501.csv gs://mat-data-prod-data-lake-dpa-esales-raw/daily/2025-05-01/
+: 1746708296:0;cd Work/mathanalytics/git/
+: 1746708304:0;cd data-pipelines
+: 1746708308:0;cd orgs
+: 1746708562:0;cd Work/mathanalytics/git/data-pipelines/scripts/orgs
+: 1746708652:0;gsutil ls "gs://ma-data-prod-lake-lactalis-cls/dpa/sellout/sales/version=v1/frequency=monthly/year=2025/month=03/**"
+: 1746708931:0;cd sellout
+: 1746708942:0;gsutil cp gs://ma-shared-prod-pyspark-scripts/orgs/lactalis/dpa/sellout/data/sales/cls_to_app.py .
+: 1746710232:0;gcloud dataproc batches submit pyspark cls_to_app.py \\
+--staging-bucket=ma-shared-prod-code-pyspark \\
+--deps-bucket=ma-shared-prod-code-pyspark \\
+--region=us-central1 \\
+--project=ma-shared-prod \\
+--version=2.2 \\
+-- \\
+--consolidated-input gs://ma-data-prod-lake-lactalis-cls/dpa/sellout/sales/version=v1/frequency=monthly/year=*/month=*/valid/" \\
+--transient-input "gs://ma-data-prod-lake-lactalis-cls/dpa/sellout/sales/version=v1/frequency=daily/year=*/month=*/day=*/valid/" \\
+--output "gs://ma-data-prod-lake-lactalis-app/dpa/sellout/sales"
+: 1746710685:0;gsutil ls "gs://ma-data-prod-lake-lactalis-raw/dpa/sellout/sales/version=v1/frequency=daily/year=2025/**"
+: 1746710716:0;gsutil cp gs://ma-data-prod-lake-lactalis-raw/dpa/sellout/sales/version=v1/frequency=daily/year=2025/month=03/day=03/dpa-sellout-sales-esales-20250303.csv.gz .
+: 1746710759:0;gunzip dpa-sellout-sales-esales-20250303.csv.gz
+: 1746710764:0;vim dpa-sellout-sales-esales-20250303.csv
+: 1746710785:0;mkdir TEST
+: 1746710832:0;gsutil ls "gs://ma-data-prod-lake-lactalis-std/dpa/sellout/sales/version=v1/frequency=daily/year=2025/**"
+: 1746711280:0;gsutil ls "gs://ma-data-prod-lake-lactalis-cls/dpa/sellout/sales/version=v1/frequency=daily/year=2025/**"
+: 1746711686:0;cd sellout/data/sales
+: 1746720883:0;gsutil ls "gs://ma-data-prod-lake-lactalis-app/dpa/sellout/sales"
+: 1746721418:0;gsutil rm -rf "gs://ma-data-prod-lake-lactalis-std/dpa/sellout/sales/version=v1/frequency=daily/year=2024/month=*"
+: 1746721446:0;gsutil -m rm -rf "gs://ma-data-prod-lake-lactalis-std/dpa/sellout/sales/version=v1/frequency=daily/year=2024/month=*"
+: 1746721480:0;gsutil -m rm -rf "gs://ma-data-prod-lake-lactalis-cls/dpa/sellout/sales/version=v1/frequency=daily/year=2024/month=*"
+: 1746721527:0;gsutil -m rm -rf "gs://ma-data-prod-lake-lactalis-std/dpa/sellout/sales/version=v1/frequency=daily/year=2025/month=01"
+: 1746721555:0;gsutil -m rm -rf "gs://ma-data-prod-lake-lactalis-std/dpa/sellout/sales/version=v1/frequency=daily/year=2025/month=02"
+: 1746721585:0;gsutil -m rm -rf "gs://ma-data-prod-lake-lactalis-std/dpa/sellout/sales/version=v1/frequency=daily/year=2025/month=03"
+: 1746726312:0;gsutil -m rm -rf "gs://ma-data-prod-lake-lactalis-cls/dpa/sellout/sales/version=v1/frequency=daily/year=2025/month=01"
+: 1746726347:0;gsutil -m rm -rf "gs://ma-data-prod-lake-lactalis-cls/dpa/sellout/sales/version=v1/frequency=daily/year=2025/month=02"
+: 1746742738:0;gsutil ls "gs://ma-data-prod-lake-lactalis-cls/dpa/sellout/sales/version=v1/frequency=daily/**"
+: 1746742783:0;gsutil -m rm -rf "gs://ma-data-prod-lake-lactalis-cls/dpa/sellout/sales/version=v1/frequency=daily/year=2025/month=03"
+: 1746742831:0;gsutil ls -lh "gs://ma-data-prod-lake-lactalis-cls/dpa/sellout/sales/version=v1/frequency=monthly/**"
+: 1746756917:0;gsutil ls gs://ma-shared-prod-models-lactalis/dpa/sellout/sales/weekly/predictions/2025-W17/dpa-sellout-sales-weekly-forecast-2025-W17.parquet.snappy
+: 1746757218:0;vim dataprep_processed.py
+: 1746757401:0;vim report_
+: 1746757640:0;gcloud dataproc batches submit pyspark report_client.py --staging-bucket="ma-shared-prod-code-pyspark" --deps-bucket="ma-shared-prod-code-pyspark" --region="us-central1" --project="ma-shared-prod" --version=2.2 --container-image="us-central1-docker.pkg.dev/ma-shared-prod/docker-images/dataproc:latest" --py-files="gs://ma-shared-prod-pyspark-scripts/packages/kronos/kronos-0.1.0-py3-none-any.whl" -- --sales-input "gs://ma-data-prod-lake-lactalis-app/dpa/sellout/sales" --cutoff-date "2025-04-27" --forecast-input " gs://ma-shared-prod-models-lactalis/dpa/sellout/sales/weekly/predictions/2025-W17/dpa-sellout-sales-weekly-forecast-2025-W17.parquet.snappy" --output "gs://ma-shared-prod-models-lactalis/test"
+: 1746759870:0;gcloud dataproc batches submit pyspark report_client.py --staging-bucket="ma-shared-prod-code-pyspark" --deps-bucket="ma-shared-prod-code-pyspark" --region="us-central1" --project="ma-shared-prod" --version=2.2 --container-image="us-central1-docker.pkg.dev/ma-shared-prod/docker-images/dataproc:latest" --py-files="gs://ma-shared-prod-pyspark-scripts/packages/kronos/kronos-0.1.0-py3-none-any.whl" -- --sales-input "gs://ma-data-prod-lake-lactalis-app/dpa/sellout/sales" --cutoff-date "2025-04-27" --forecast-input "gs://ma-shared-prod-models-lactalis/dpa/sellout/sales/weekly/predictions/2025-W17/dpa-sellout-sales-weekly-forecast-2025-W17.parquet.snappy" --output "gs://ma-shared-prod-models-lactalis/test"\
+
+: 1746759909:0;cd sa
+: 1746760018:0;cd reop
+: 1746760560:0;gnome-text-editor report_client.py
+: 1746763909:0;mv report_client.py ../models/sales/weekly/forecast_daily.py
+: 1746763965:0;git diff dataprep_interim.py
+: 1746764029:0;cd lactalis/dpa/sellout/models/sales/weekly
+: 1746764058:0;git rm ../../../reports/report_client.py
+: 1746764078:0;git commit -m "Add DPA Sellout Daily Forecast for reporting"
+: 1746764120:0;vim ../../../../../../../../dags/mathanalytics/orgs/lactalis/dags/dpa_sellout_model_weekly_dag.py
+: 1746764642:0;git commit -m "Add daily forecast to dpa sellout dag"
+: 1746765345:0;git commit -m "Save daily forecast to gcs"
+: 1746766311:0;gsutil ls gs://ma-shared-prod-models-lactalis/dpa/sellout/sales/weekly/predictions/2025-W17/
+: 1746767576:0;cp forecast_daily.py ../../../reports/report_client.py
+: 1746767826:0;file forecast_sellout_03012025.csv
+: 1746767854:0;file forecast_sellout_02052025.csv
+: 1746768738:0;vim sales/weekly/forecast.py
+: 1746768911:0;vim ../reports/report_client.py
+: 1746768981:0;git add ..
+: 1746769004:0;git commit -m "Clip prediction values to at least zero"
+: 1746769013:0;cd .
+: 1746769016:0;c d..
+: 1746770885:0;vim dags/mathanalytics/orgs/lactalis/dags/dpa_sellout_model_weekly_dag.py
+: 1746771502:0;git commit -m "Add task to build client report"
+: 1746772171:0;gsutil ls "gs://ma-data-prod-lake-lactalis-cls/dpa/sellout/sales/version=v1/frequency=monthly/year=2025/month=03"
+: 1746772192:0;gsutil ls "gs://ma-data-prod-lake-lactalis-cls/dpa/sellout/sales/version=v1/frequency=monthly/year=2025/month=03/valid"
+: 1746773407:0;git commit -m "fix typo"
+: 1746775193:0;git commit -m "print info on forecast dataframe"
+: 1746775517:0;vim scripts/orgs/lactalis/dpa/sellout/models/sales/weekly/forecast.py
+: 1746808704:0;gsutil ls "gs://ma-data-prod-file-portal/**"
+: 1746808718:0;gsutil ls "gs://ma-data-prod-file-portal/"
+: 1746808737:0;gsutil ls "gs://mat-data-prod-filemage-storage/"
+: 1746808748:0;gsutil ls "gs://mat-data-prod-filemage-storage/**"
+: 1746808824:0;gsutil rm -rf "gs://mat-data-prod-filemage-storage/clients/danone/datasets"
+: 1746808934:0;gsutil rm -rf "gs://mat-data-prod-filemage-storage/clients/danone/forecast"
+: 1746808952:0;gsutil ls "gs://mat-data-prod-filemage-storage/clients/danone/**"
+: 1747609505:0;gsutil ls "gs://ma-shared-prod-models-lactalis/dpa/sellout/sales/"
+: 1747610078:0;gsutil ls "gs://ma-data-prod-lake-lactalis-cls/dpa/sellout/sales/version=v1/frequency=daily/year=2025/month=05/**"
+: 1747610292:0;cd dags/
+: 1747610372:0;git diff report_client.py
+: 1747610386:0;git commit -m "Reduce size of prints"
+: 1747615707:0;cd dpa-sellout
+: 1747615861:0;git commit -m "Fix bug in script"
+: 1747618045:0;vim dpa_sellin_data_demand_dag.py ls
+: 1747624764:0;cd dags/mathanalytics
+: 1747625602:0;git commit -m "Add export task to esales sftp"
+: 1747625692:0;git commit -m "Add import"
+: 1747627941:0;git commit -m "Fix export client report"
+: 1747629181:0;git commit -m "Fix typos"
+: 1747629930:0;git commit -m "Fix report path"
+: 1747661849:0;git commit -m "Fix destination path for SFTP"
+: 1747662457:0;cd lactalis/notebooks
+: 1747670238:0;git commit -m "Fix bugs"
+: 1747673268:0;git commit -m "Test with basic models"
+: 1747673965:0;git commit -m "Fix forecast column"
+: 1747675181:0;git commit -m "Fix client report"
+: 1747676326:0;git commit -m "Turn forecast into an interger"
+: 1747679055:0;git commit -m "Match number of partitions on script and number of instances in dataproc config"
+: 1747681004:0;git commit -m "Round the daily forecast to an integer"
+: 1747681686:0;git commit -m "Deal with missing values before casting"
+: 1747699833:0;git commit -m "Add latest only operator"
+: 1747704900:0;cp report_client.py report_pbi.py
+: 1747743433:0;gsutil ls "gs://ma-shared-prod-models-lactalis/dpa/sellout/sales/weekly/predictions/*/dpa-sellout-sales-weekly-forecast-*.parquet.snappy"
+: 1747743892:0;gsutil rm -rf "gs://ma-shared-prod-models-lactalis/dpa/sellout/sales/weekly/predictions/2024-W52"
+: 1747743914:0;gsutil rm -rf "gs://ma-shared-prod-models-lactalis/dpa/sellout/sales/weekly/predictions/2025-W01"
+: 1747743962:0;gsutil rm -rf "gs://ma-shared-prod-models-lactalis/dpa/sellout/sales/weekly/predictions/2025-W02"
+: 1747744003:0;gsutil rm -rf "gs://ma-shared-prod-models-lactalis/dpa/sellout/sales/weekly/predictions/2025-W05"
+: 1747744013:0;gsutil rm -rf "gs://ma-shared-prod-models-lactalis/dpa/sellout/sales/weekly/predictions/2025-W06"
+: 1747744034:0;gsutil rm -rf "gs://ma-shared-prod-models-lactalis/dpa/sellout/sales/weekly/data/**"
+: 1747744086:0;gsutil rm -rf "gs://ma-shared-prod-models-lactalis/dpa/sellout/sales/weekly/*/2024-W51"
+: 1747744108:0;gsutil rm -rf "gs://ma-shared-prod-models-lactalis/dpa/sellout/sales/weekly/*/2024-W52"
+: 1747744126:0;gsutil rm -rf "gs://ma-shared-prod-models-lactalis/dpa/sellout/sales/weekly/data/2024-W51"
+: 1747744145:0;gsutil ls "gs://ma-shared-prod-models-lactalis/dpa/sellout/sales/weekly/data/2024-W51"
+: 1747744168:0;gsutil ls "gs://ma-shared-prod-models-lactalis/dpa/sellout/sales/weekly/**/2024-W51/"
+: 1747744181:0;gsutil ls "gs://ma-shared-prod-models-lactalis/dpa/sellout/sales/weekly/*/2024-W51/"
+: 1747744203:0;gsutil ls "gs://ma-shared-prod-models-lactalis/dpa/sellout/sales/weekly/data/2024-W51/**"
+: 1747746777:0;gsutil ls "gs://ma-shared-prod-models-lactalis/dpa/sellout/sales/weekly/**"
+: 1747746842:0;gsutil rm -r "gs://ma-shared-prod-models-lactalis/dpa/sellout/sales/weekly/predictions/"
+: 1747746867:0;gsutil rm -r "gs://ma-shared-prod-models-lactalis/dpa/sellout/sales/weekly/reports/"
+: 1747746890:0;gsutil ls -lh "gs://ma-shared-prod-models-lactalis/dpa/sellout/sales/weekly/**"
+: 1747750532:0;gcloud dataproc batches submit pyspark report_pbi.py --staging-bucket="ma-shared-prod-code-pyspark" --deps-bucket="ma-shared-prod-code-pyspark" --region="us-central1" --project="ma-shared-prod" --version=2.2 -- --sales-input "gs://ma-shared-prod-models-lactalis/dpa/sellout/sales/weekly/data/2025-W19/dpa-sellout-sales-weekly-data-full-processed-2025-W19.parquet.snappy" --forecast-input "gs://ma-shared-prod-models-lactalis/dpa/sellout/sales/weekly/predictions/*/dpa-sellout-sales-weekly-forecast-*.parquet.snappy" --output "gs://ma-shared-prod-models-lactalis/test"
+: 1747785688:0;gsutil ls "gs://ma-shared-prod-models-lactalis/dpa/sellout/sales/weekly/data/2025-W21/dpa-sellout-sales-weekly-data-full-processed-2025-W21.parquet.snappy"
+: 1747786643:0;cd sellout/data/sales/
+: 1747787198:0;git commit -m "Add cutoff date to forecast output"
+: 1747846962:0;git commit -m "Change weekly forecast output"
+: 1747858099:0;python forecast_daily.py
+: 1747873753:0;git commit -m "Fix date bug"
+: 1747932893:0;git commit -m "Fix merge with forecast week"
+: 1747951407:0;git commit -m "Fix bug in df_group"
+: 1747954935:0;cd DPA_SELL
+: 1747954948:0;gsutil cp gs://ma-shared-prod-models-lactalis/dpa/sellout/sales/weekly/reports/2025-W16/forecast_sellout_20250425.csv .
+: 1747954968:0;vim forecast_sellout_20250425.csv
+: 1747962042:0;cp dpa_sellout_model_weekly_dag.py test_sftp.py
+: 1748210839:0;cd git/data-pipelines
+: 1748210855:0;cd analysis
+: 1748210953:0;vim test_sftp.py
+: 1748366254:0;git commit -m "Add build report code"
+: 1748366875:0;git commit -m "Add task that builds the pbi report"
+: 1748367312:0;git commit -m "Fix missing parenthesis"
+: 1748382547:0;cp report_pbi.py test.py
+: 1748383427:0;cd data/sales
+: 1748384190:0;git add reports/report_*
+: 1748384238:0;git commit -m "Write parquet using pyspark, to avoid data type problems when reading it"
+: 1748384855:0;git commit -m "Change flow of tasks"
+: 1748385131:0;vim gcs_ingest_dag.py
+: 1748385146:0;git rm gcs_ingest_dag.py
+: 1748385152:0;rm test_sftp.py
+: 1748385257:0;git sattus
+: 1748385276:0;git commit -m "Remove useless imports"
+: 1748385410:0;git commit -m "Remove duplicate latest_only task"
+: 1748385817:0;git commit -m "Change task flow"
+: 1748386222:0;git commit -m "Change task flow so there are the report client and pbi paths"
+: 1748387294:0;gcloud dataproc batches submit pyspark test.py --staging-bucket="ma-shared-prod-code-pyspark" --deps-bucket="ma-shared-prod-code-pyspark" --region="us-central1" --project="ma-shared-prod" --version=2.2 -- --input "gs://ma-shared-prod-models-lactalis/dpa/sellout/sales/weekly/data/2024-W52/dpa-sellout-sales-weekly-data-full-interim-2024-W52.parquet.snappy" --output "gs://ma-shared-prod-models-lactalis/test"
+: 1748387659:0;git add dataprep_processed.py
+: 1748388946:0;gcloud dataproc batches submit pyspark test.py --staging-bucket="ma-shared-prod-code-pyspark" --deps-bucket="ma-shared-prod-code-pyspark" --region="us-central1" --project="ma-shared-prod" --version=2.2 -- --input "gs://ma-shared-prod-models-lactalis/dpa/sellout/sales/weekly/data/2024-W52/dpa-sellout-sales-weekly-data-full-processed-2024-W52.parquet.snappy" --output "gs://ma-shared-prod-models-lactalis/test"
+: 1748389217:0;cd models/sales/weekly
+: 1748389260:0;git add forecast.py
+: 1748389273:0;git commit -m "Fix typo"
+: 1748391208:0;git add forecast_daily.py
+: 1748391221:0;git commit -m "Add spark session initialization"
+: 1748392379:0;pythyon report_client.py
+: 1748392384:0;python report_client.py
+: 1748392393:0;python report_pbi.py
+: 1748392405:0;git add report_client.py
+: 1748392415:0;git commit -m "Add missing SparkSession import"
+: 1748392471:0;gcloud dataproc batches submit pyspark test.py --staging-bucket="ma-shared-prod-code-pyspark" --deps-bucket="ma-shared-prod-code-pyspark" --region="us-central1" --project="ma-shared-prod" --version=2.2 -- --input "gs://ma-shared-prod-models-lactalis/dpa/sellout/sales/weekly/predictions/2024-W52/dpa-sellout-sales-weekly-forecast-*.parquet.snappy" --output "gs://ma-shared-prod-models-lactalis/test"
+: 1748393174:0;git commit -m "Change trigger_rule of end task"
+: 1748393352:0;git commit -m "Change parallel execution dag configuration"
+: 1748393587:0;ls common
+: 1748393597:0;tree orgs
+: 1748395961:0;cd orgs/lactalis
+: 1748396004:0;git commit -m "Make the dag runs be sequential"
+: 1748397083:0;mkdir LEGACY-DAGS
+: 1748397088:0;cd LEGACY-DAGS
+: 1748397120:0;gsutil -m cp -r gs://us-central1-airflow-env-20277b63-bucket/ .
+: 1748440130:0;gcloud dataproc batches submit pyspark test.py --staging-bucket="ma-shared-prod-code-pyspark" --deps-bucket="ma-shared-prod-code-pyspark" --region="us-central1" --project="ma-shared-prod" --version=2.2 -- --input "gs://ma-shared-prod-models-lactalis/dpa/sellout/sales/weekly/data/2025-W20/dpa-sellout-sales-weekly-data-full-processed-2025-W20.parquet.snappy" --output "gs://ma-shared-prod-models-lactalis/test"
+: 1748440357:0;gcloud dataproc batches submit pyspark test.py --staging-bucket="ma-shared-prod-code-pyspark" --deps-bucket="ma-shared-prod-code-pyspark" --region="us-central1" --project="ma-shared-prod" --version=2.2 -- --input "gs://ma-shared-prod-models-lactalis/dpa/sellout/sales/weekly/predictions/*/dpa-sellout-sales-weekly-forecast-*.parquet.snappy" --output "gs://ma-shared-prod-models-lactalis/test"
+: 1748441289:0;cd sales/weekly
+: 1748441291:0;vim dataprep_interim.py
+: 1748441686:0;vim forecast_daily.py
+: 1748441777:0;git add models/
+: 1748441805:0;git commit -m "Change parquet write to use coalesce before writing to gcs"
+: 1748444417:0;git commit -m "Change dag run timeout to 1h"
+: 1748444469:0;gsutil ls "gs://ma-shared-prod-models-lactalis/dpa/sellout/sales/weekly/data/2024-W52/**"
+: 1748444491:0;gsutil ls "gs://ma-shared-prod-models-lactalis/dpa/sellout/sales/weekly/data/2025-W01/**"
+: 1748444536:0;gsutil ls "gs://ma-shared-prod-models-lactalis/dpa/sellout/sales/weekly/reports/2024-W52/**"
+: 1748445368:0;gsutil ls "gs://ma-shared-prod-models-lactalis/dpa/sellout/sales/weekly/predictions/2024-W52/**"
+: 1748459431:0;gsutil ls "gs://ma-shared-prod-models-lactalis/dpa/sellout/sales/weekly/predictions/2025-W03/**"
+: 1748459546:0;gsutil ls "gs://ma-shared-prod-models-lactalis/dpa/sellout/sales/weekly/predictions/2025-W0*"
+: 1748459606:0;gsutil ls "gs://ma-shared-prod-models-lactalis/dpa/sellout/sales/weekly/predictions/2025-W0*/**"
+: 1748477373:0;gsutil ls "gs://ma-shared-prod-models-lactalis/dpa/sellout/sales/weekly/predictions/2025-W1*/**"
+: 1748485918:0;vim report_bi
+: 1748485971:0;git commit -m "Add missing import"
+: 1748486530:0;cd sellout/reports
+: 1748486564:0;git add ../../../../../../dags/mathanalytics/orgs/lactalis/dags/dpa_sellout_model_weekly_dag.py
+: 1748486574:0;git commit -m "Fix pbi report"
+: 1748487152:0;gsutil ls "gs://ma-shared-prod-models-lactalis/dpa/sellout/sales/weekly/reports/2025-W20/**"
+: 1748487202:0;gsutil cp gs://ma-shared-prod-models-lactalis/dpa/sellout/sales/weekly/reports/2025-W20/report-pbi.csv .
+: 1748487226:0;vim report-pbi.csv
+: 1748487323:0;gsutil ls "gs://ma-shared-prod-models-lactalis/dpa/sellout/sales/weekly/data/**"
+: 1748487355:0;gsutil ls "gs://ma-shared-prod-models-lactalis/dpa/sellout/sales/weekly/predictions/**"
+: 1748487924:0;gsutil ls -lh "gs://ma-shared-prod-models-lactalis/dpa/sellout/sales/weekly/data/**"
+: 1748487948:0;gsutil ls -lh "gs://ma-shared-prod-models-lactalis/dpa/sellout/sales/weekly/predictions/**"
+: 1748546233:0;git commit -m "Fix pbi report"ls
+: 1748548676:0;python dpa_sellout_model_weekly_dag.py
+: 1748548762:0;git commit -m "Refactor dag variables"
+: 1748549460:0;git adls
+: 1748549588:0;git commit -m "Fix some errors"
+: 1748549904:0;git commit -m "Remove unused task"
+: 1748550606:0;git add dpa_sellout_model_weekly_dag.py
+: 1748550614:0;git commit -m "Change bigquery project"
+: 1748550819:0;gsutil ls -lh gs://ma-shared-prod-models-lactalis/dpa/sellout/sales/weekly/reports/2025-W20/report-pbi-2025-W20.parquet.snappy
+: 1748553773:0;bq load --source_format=PARQUET ma-data-prod.client_dpa.sellout_report "gs://ma-shared-prod-models-lactalis/dpa/sellout/sales/weekly/reports/2025-W20/report-pbi-2025-W20.parquet.snappy"
+: 1748553874:0;bq load --source_format=PARQUET --project=ma-data-prod client_dpa.sellout_report "gs://ma-shared-prod-models-lactalis/dpa/sellout/sales/weekly/reports/2025-W20/report-pbi-2025-W20.parquet.snappy"
+: 1748553886:0;bq load --source_format=PARQUET --project_id=ma-data-prod client_dpa.sellout_report "gs://ma-shared-prod-models-lactalis/dpa/sellout/sales/weekly/reports/2025-W20/report-pbi-2025-W20.parquet.snappy"
+: 1748555941:0;vim ../models/sales/weekly/forecast_daily.py
+: 1748556379:0;git commit -m "Add product description column to pbi report"
+: 1748564891:0;vimls
+: 1748565002:0;git commit -m "Change target column so it has no missing values"
+: 1748608207:0;cd Work/mathanalytics/git/data-pipelines/dags/mathanalytics/orgs/lactalis/
+: 1748608395:0;git add dpa_sellout_*
+: 1748608408:0;git commit -m "Change dag tags"
+: 1748638934:0;vim dpa_sellin_data_demand_dag.py
+: 1748983048:0;gsutil ls gs://ma-data-prod-lake-dpa-raw/**
+: 1748983053:0;gsutil ls "gs://ma-data-prod-lake-dpa-raw/**"
+: 1748983116:0;gsutil ls "gs://ma-data-prod-lake-lactalis-raw/**"
+: 1748983185:0;gs://ma-data-prod-lake-lactalis-raw/dpa/sellin/demand/version=v1/delta/frequency=monthly/year=2024/month=11/demand-202411.csv
+: 1748983264:0;gsutil cp gs://ma-data-prod-lake-dpa-raw/sellin/demand/v1/consolidated/delta/year=2024/month=12/demand-202412.csv gs://ma-data-prod-lake-lactalis-raw/dpa/sellin/demand/version=v1/delta/frequency=monthly/year=2024/month=12/
+: 1748983292:0;gsutil cp gs://ma-data-prod-lake-dpa-raw/sellin/demand/v1/consolidated/delta/year=2025/month=01/demand-202501.csv gs://ma-data-prod-lake-lactalis-raw/dpa/sellin/demand/version=v1/delta/frequency=monthly/year=2025/month=01/
+: 1748983311:0;gsutil cp gs://ma-data-prod-lake-dpa-raw/sellin/demand/v1/consolidated/delta/year=2025/month=02/demand-202502.csv gs://ma-data-prod-lake-lactalis-raw/dpa/sellin/demand/version=v1/delta/frequency=monthly/year=2025/month=02/
+: 1748983331:0;gsutil cp gs://ma-data-prod-lake-dpa-raw/sellin/demand/v1/consolidated/delta/year=2025/month=03/demand-202503.csv gs://ma-data-prod-lake-lactalis-raw/dpa/sellin/demand/version=v1/delta/frequency=monthly/year=2025/month=03/
+: 1748983348:0;gsutil ls "gs://ma-data-prod-lake-lactalis-raw/dpa/sellin/demand/version=v1/delta/**"
+: 1748983442:0;gsutil ls "gs://ma-data-prod-lake-lactalis-std/dpa/sellin/**"
+: 1748983529:0;gsutil cp "gs://ma-data-prod-lake-dpa-std/sellin/demand/**"
+: 1748983536:0;gsutil ls "gs://ma-data-prod-lake-dpa-std/sellin/demand/**"
+: 1748983596:0;mkdir DPA_SELLIN
+: 1748983616:0;gsutil cp -r "gs://ma-data-prod-lake-dpa-std/sellin/demand/consolidated/" .
+: 1748983642:0;gsutil -m cp -r "gs://ma-data-prod-lake-dpa-std/sellin/demand/consolidated/" .
+: 1748983759:0;ls consolidated
+: 1748984327:0;cd year=2017/
+: 1748984338:0;cd month=09
+: 1748984357:0;mv demand-201704-201709.parquet/* .
+: 1748984363:0;ls demand-201704-201709.parquet
+: 1748984371:0;rm -rf demand-201704-201709.parquet
+: 1748984381:0;s
+: 1748984391:0;cd month=03
+: 1748984397:0;mv demand-201710-201803.parquet/* .
+: 1748984400:0;ls demand-201710-201803.parquet
+: 1748984404:0;rm -rf demand-201710-201803.parquet
+: 1748984410:0;cd month=10
+: 1748984420:0;mv demand-201804-201810.parquet/* .
+: 1748984424:0;rm -rf demand-201804-201810.parquet
+: 1748984455:0;ls month=10
+: 1748984458:0;cd month=12
+: 1748984462:0;mv demand-201811-201812.parquet/*
+: 1748984465:0;mv demand-201811-201812.parquet/* .
+: 1748984467:0;ls demand-201811-201812.parquet
+: 1748984471:0;rm -rf demand-201811-201812.parquet
+: 1748984650:0;tree month=01
+: 1748984672:0;ls month=01
+: 1748984676:0;for d in month=*; do mv $d/demand-2019${d##*=}.parquet/* $d/ && rmdir $d/demand-2019${d##*=}.parquet; done
+: 1748984695:0;for d in month=*; do mv $d/demand-2020${d##*=}.parquet/* $d/ && rmdir $d/demand-2020${d##*=}.parquet; done
+: 1748984702:0;tree ..
+: 1748984725:0;for d in month=*; do mv $d/demand-2021${d##*=}.parquet/* $d/ && rmdir $d/demand-2021${d##*=}.parquet; done
+: 1748984732:0;cd 2022
+: 1748984756:0;cd DPA_SELLIN/
+: 1748984766:0;cd version=v1/
+: 1748984789:0;cd consolidated/l
+: 1748984798:0;tree year=2022
+: 1748984810:0;tree year=2021
+: 1748984831:0;for d in month=*; do mv $d/demand-2022${d##*=}.parquet/* $d/ && rmdir $d/demand-2022${d##*=}.parquet; done
+: 1748984846:0;for d in month=*; do mv $d/demand-2023${d##*=}.parquet/* $d/ && rmdir $d/demand-2023${d##*=}.parquet; done
+: 1748984862:0;for d in month=*; do mv $d/demand-2024${d##*=}.parquet/* $d/ && rmdir $d/demand-2024${d##*=}.parquet; done
+: 1748984882:0;for d in month=*; do mv $d/demand-2025${d##*=}.parquet/* $d/ && rmdir $d/demand-2025${d##*=}.parquet; done
+: 1748984906:0;gsutil ls "gs://ma-data-prod-lake-lactalis-std/dpa/sellout/**"
+: 1748984967:0;gsutil -m cp -r * gs://ma-data-prod-lake-lactalis-std/dpa/sellin/demand/version=v1/frequency=monthly/
+: 1748985013:0;gsutil ls "gs://ma-data-prod-lake-lactalis-std/dpa/sellin/demand/version=v1/frequency=monthly/**"
+: 1748985080:0;gsutil cp -r "gs://ma-data-prod-lake-dpa-std/sellin/demand/consolslidated/" .
+: 1748985090:0;cd DPA_SELLIN
+: 1748985094:0;mkdir CLS
+: 1748985106:0;gsutil cp -r "gs://ma-data-prod-lake-dpa-cls/sellin/demand/consolidated/" .
+: 1748987899:0;cd year=20
+: 1748987918:0;cd CLS
+: 1748987920:0;cd consolidated
+: 1748987994:0;tree year=2019
+: 1748988145:0;for d in month=*; do for sub in invalid valid; do full_path=$d/$sub/demand-2019${d##*=}.parquet; if [[ -d $full_path ]]; then mv $full_path/* $d/; rmdir $full_path && rmdir $d/$sub 2>/dev/null; fi; done; done
+: 1748988236:0;for d in month=*; do for sub in invalid valid; do for f in $d/$sub/demand-*.parquet(N/); do mv $f/* $d/; rmdir $f && rmdir $d/$sub(N) 2>/dev/null; done; done; done
+: 1748988258:0;tree month=09
+: 1748988337:0;cd year=2018
+: 1748988371:0;cd year=2019
+: 1748988384:0;cd year=2020
+: 1748988392:0;cd year=2021
+: 1748988399:0;cd year=2022
+: 1748988406:0;cd year=2023
+: 1748988413:0;cd year=2024
+: 1748988421:0;cd year=2025
+: 1748988454:0;gsutil ls "gs://ma-data-prod-lake-dpa-cls/sellin/demand/consolidated/**"
+: 1748988504:0;rm -rf year=2017
+: 1748988513:0;gsutil cp -r gs://ma-data-prod-lake-dpa-cls/sellin/demand/consolidated/delta/year=2017/ .
+: 1748988558:0;cd year=2017
+: 1748988568:0;for d in month=*; do for sub in invalid valid; do for f in $d/$sub/demand-*.parquet(N/); do mv $f/* $d/$sub/; rmdir $f; done; done; done
+: 1748988603:0;gsutil ls "gs://ma-data-prod-lake-dpa-app/**"
+: 1748988675:0;gsutil ls "gs://ma-data-prod-lake-lactalis-cls/dpa/sellout/**"
+: 1748988744:0;gsutil -m cp -r * gs://ma-data-prod-lake-lactalis-cls/dpa/sellin/demand/version=v1/frequency=monthly/
+: 1748988915:0;gsutil ls gs://ma-data-prod-lake-lactalis-cls/dpa/sellin/demand/version=v1/frequency=monthly/**"
+: 1748988923:0;gsutil ls "gs://ma-data-prod-lake-lactalis-cls/dpa/sellin/demand/version=v1/frequency=monthly/**"
+: 1748989029:0;gsutil ls "gs://ma-data-prod-lake-lactalis-cls/dpa/"
+: 1748989043:0;gsutil ls "gs://ma-data-prod-lake-lactalis-cls/dpa/sellin/"
+: 1748989054:0;gsutil ls "gs://ma-data-prod-lake-lactalis-cls/dpa/sellin/demand"
+: 1748989118:0;cd scripts
+: 1748989120:0;cd orgs/lactalis/
+: 1748989122:0;cd dpa
+: 1748989155:0;cp sellout/reports/test.py sellin
+: 1748997095:0;gcloud dataproc batches submit pyspark test.py --staging-bucket="ma-shared-prod-code-pyspark" --deps-bucket="ma-shared-prod-code-pyspark" --region="us-central1" --project="ma-shared-prod" --version=2.2 -- --input "gs://ma-data-prod-lake-lactalis-cls/dpa/sellin/demand/version=v1/frequency=monthly/year=*/month=*/valid/" --output "gs://ma-shared-prod-models-lactalis/test"
+: 1748998252:0;mkdir v1
+: 1748998254:0;mkdir v2
+: 1748998260:0;mv *.py v1
+: 1748998562:0;vim aggregate.py
+: 1749001759:0;ls sellout/data/sales
+: 1749001781:0;cd sellin/data
+: 1749001948:0;cp raw_to_std.py ../v2
+: 1749001954:0;cd v2
+: 1749004205:0;gsutil ls "gs://ma-data-prod-lake-lactalis-std/dpa/sellin/demand/**"
+: 1749004344:0;mkdir raw
+: 1749004352:0;dc ..
+: 1749004359:0;mkdir RAW
+: 1749004360:0;cd RAW
+: 1749004377:0;gsutil cp -r gs://ma-data-prod-lake-lactalis-raw/dpa/sellin/demand/version=v1/delta/ .
+: 1749004409:0;gsutil -m cp -r gs://ma-data-prod-lake-lactalis-raw/dpa/sellin/demand/version=v1/delta/ .
+: 1749004449:0;cd delta
+: 1749004478:0;gsutil -m rm -r gs://ma-data-prod-lake-lactalis-raw/dpa/sellin/demand/version=v1/delta/
+: 1749004550:0;gsutil rm -r "gs://ma-data-prod-lake-lactalis-raw/dpa/sellin/demand/version=v1/full"
+: 1749004634:0;gsutil -m cp -r frequency=monthly gs://ma-data-prod-lake-lactalis-raw/dpa/sellin/demand/version=v1/
+: 1749004701:0;gsutil ls "gs://ma-data-prod-lake-lactalis-raw/dpa/sellin/demand/version=v1/**"
+: 1749004840:0;cd dpa/demand
+: 1749005735:0;gsutil cp demand-current.xlsx gs://ma-data-prod-lake-lactalis-raw/dpa/sellin/demand/version=v2/current-month-snapshot/
+: 1749036686:0;cat raw_to_std.py
+: 1749036691:0;rcat raw_to_std.py
+: 1749036815:0;pip install polars
+: 1749037064:0;pip install fastexcel
+: 1749037273:0;rm cls_to_app.py
+: 1749037278:0;rm std_to_cls.py
+: 1749037288:0;mv raw_to_std.py raw_to_app
+: 1749037295:0;mv raw_to_app raw_to_app.py
+: 1749037643:0;gsutil ls "gs://ma-data-prod-lake-lactalis-raw/dpa/sellin/demand/**"
+: 1749037748:0;gsutil cp produtos-2025-04-10.xlsx gs://ma-data-prod-lake-lactalis-raw/dpa/sellin/products/products.xlsx
+: 1749037985:0;gcloud dataproc batches submit pyspark raw_to_app.py --staging-bucket="ma-shared-prod-code-pyspark" --deps-bucket="ma-shared-prod-code-pyspark" --region="us-central1" --project="ma-shared-prod" --version=2.2 -- --input "gs://ma-data-prod-lake-lactalis-raw/dpa/sellin/products/products.xlsx" --output "gs://ma-shared-prod-models-lactalis/test"
+: 1749038577:0;cd docker-images
+: 1749038579:0;lss
+: 1749038618:0;cd dataproc
+: 1749038622:0;vim requirements.txt
+: 1749038664:0;git add requirements.txt
+: 1749038677:0;git commit -m "Add openpyxl to allow for reading excel files"
+: 1749040618:0;vim cloudbuild.yaml
+: 1749040709:0;vim dataproc/requirements.txt
+: 1749040725:0;pip install openpyxl
+: 1749042168:0;git add dataproc/Dockerfile
+: 1749042202:0;git commit -m "Install build-essential meta package"
+: 1749042836:0;vim dataproc/Dockerfile
+: 1749042901:0;git add dataproc/
+: 1749042909:0;git commit -m "Add missing parameter"
+: 1749060779:0;gcloud dataproc batches submit pyspark raw_to_app.py --staging-bucket="ma-shared-prod-code-pyspark" --deps-bucket="ma-shared-prod-code-pyspark" --region="us-central1" --project="ma-shared-prod" --version=2.2 --container-image="us-central1-docker.pkg.dev/ma-shared-prod/docker-images/dataproc:latest" -- --input "gs://ma-data-prod-lake-lactalis-raw/dpa/sellin/products/products.xlsx" --output "gs://ma-shared-prod-models-lactalis/test"
+: 1749061050:0;gsutil ls gs://ma-data-prod-lake-lactalis-app
+: 1749061076:0;gsutil ls "gs://ma-data-prod-lake-lactalis-app/**"
+: 1749061294:0;gsutil ls gs://ma-data-prod-lake-lactalis-app/dpa/sellin/products
+: 1749061325:0;import pandas as pd
+: 1749061648:0;gcloud dataproc batches submit pyspark raw_to_app.py --staging-bucket="ma-shared-prod-code-pyspark" --deps-bucket="ma-shared-prod-code-pyspark" --region="us-central1" --project="ma-shared-prod" --version=2.2 --container-image="us-central1-docker.pkg.dev/ma-shared-prod/docker-images/dataproc:latest" -- --input "gs://ma-data-prod-lake-lactalis-raw/dpa/sellin/products/products.xlsx" --output "gs://ma-data-prod-lake-lactalis-app/dpa/sellin/products"
+: 1749070309:0;mkdir warehouses
+: 1749070319:0;cp products/raw_to_app.py warehouses
+: 1749070324:0;vim warehouses/raw_to_app.py
+: 1749126020:0;cd analysis/lactalis/data/dpa/others
+: 1749126036:0;mv plantas-2025-04-10.xlsx plantas.xlsx
+: 1749126043:0;mv produtos-2025-04-10.xlsx produtos.xlsx
+: 1749126065:0;gsutil ls gs://ma-data-prod-lake-lactalis-raw/dpa/sellin/products
+: 1749126101:0;gsutil mv gs://ma-data-prod-lake-lactalis-raw/dpa/sellin/products/products.xlsx gs://ma-data-prod-lake-lactalis-raw/dpa/sellin/products/produtos.xlsx
+: 1749126154:0;gsutil cp plantas.xlsx gs://ma-data-prod-lake-lactalis-raw/dpa/sellin/warehouses/
+: 1749126204:0;gsutil ls gs://ma-data-prod-lake-lactalis-raw/dpa/sellin/warehouses
+: 1749127875:0;gcloud dataproc batches submit pyspark raw_to_app.py --staging-bucket="ma-shared-prod-code-pyspark" --deps-bucket="ma-shared-prod-code-pyspark" --region="us-central1" --project="ma-shared-prod" --version=2.2 --container-image="us-central1-docker.pkg.dev/ma-shared-prod/docker-images/dataproc:latest" -- --input "gs://ma-data-prod-lake-lactalis-raw/dpa/sellin/warehouses/plantas.xlsx" --output "gs://ma-data-prod-lake-lactalis-app/dpa/sellin/warehouses"
+: 1749128546:0;gsutil ls gs://ma-data-prod-lake-lactalis-app/dpa/sellin/warehouses
+: 1749132652:0;mv raw_to_app.py raw_to_cls.py
+: 1749132721:0;cp raw_to_cls.py cls_to_app.py
+: 1749144939:0;gcloud dataproc batches submit pyspark cls_to_app.py --staging-bucket="ma-shared-prod-code-pyspark" --deps-bucket="ma-shared-prod-code-pyspark" --region="us-central1" --project="ma-shared-prod" --version=2.2 --container-image="us-central1-docker.pkg.dev/ma-shared-prod/docker-images/dataproc:latest" -- uses"--input "gs://ma-data-prod-lake-lactalis-cls/dpa/sellin/warehouses/warehouses.parquet" \\
+--output-old-old "gs://ma-data-prod-lake-lactalis-app/dpa/sellin/warehouses_old_old" \\
+--output-old-new "gs://ma-data-prod-lake-lactalis-app/dpa/sellin/warehouses_old_new"\
+--output-new "gs://ma-data-prod-lake-lactalis-app/dpa/sellin/wareho
+: 1749152301:0;gcloud dataproc batches submit pyspark cls_to_app.py \\
+--staging-bucket="ma-shared-prod-code-pyspark" \\
+--deps-bucket="ma-shared-prod-code-pyspark" \\
+--region="us-central1" \\
+--project="ma-shared-prod" \\
+--version=2.2 \\
+--container-image="us-central1-docker.pkg.dev/ma-shared-prod/docker-images/dataproc:latest" \\
+-- \\
+--input "gs://ma-data-prod-lake-lactalis-cls/dpa/sellin/warehouses/warehouses.parquet" \\
+--output-old-old "gs://ma-data-prod-lake-lactalis-app/dpa/sellin/warehouses_old_old" \\
+--output-old-new "gs://ma-data-prod-lake-lactalis-app/dpa/sellin/warehouses_old_new" \\
+--output-new "gs://ma-data-prod-lake-lactalis-app/dpa/sellin/warehouses\
+
+: 1749157098:0;cd Work/mathanalytics/git/data-pipelines/scripts/orgs/lactalis/dpa/sellin/data/
+: 1749157161:0;gsutil ls gs://ma-data-prod-lake-lactalis-cls/dpa/sellin/warehouses
+: 1749157240:0;gsutil ls gs://ma-data-prod-lake-lactalis-app/dpa/sellin/
+: 1749157301:0;gcloud dataproc batches submit pyspark cls_to_app.py \\
+--staging-bucket="ma-shared-prod-code-pyspark" \\
+--deps-bucket="ma-shared-prod-code-pyspark" \\
+--region="us-central1" \\
+--project="ma-shared-prod" \\
+--version=2.2 \\
+--container-image="us-central1-docker.pkg.dev/ma-shared-prod/docker-images/dataproc:latest" \\
+-- \\
+--input "gs://ma-data-prod-lake-lactalis-cls/dpa/sellin/warehouses/warehouses.parquet" \\
+--output-old-old "gs://ma-data-prod-lake-lactalis-app/dpa/sellin/warehouses_old_old" \\
+--output-old-new "gs://ma-data-prod-lake-lactalis-app/dpa/sellin/warehouses_old_new" \\
+--output-new "gs://ma-data-prod-lake-lactalis-app/dpa/sellin/warehouses\
+Â¨
+: 1749157415:0;mkdir hierarchy
+: 1749157451:0;cp warehouses/raw_to_cls.py hierarchy
+: 1749158083:0;mv hierarquia-2025-04-10.xlsx hierarquia.xlsx
+: 1749158115:0;gsutil ls gs://ma-data-prod-lake-lactalis-raw/dpa/sellin/
+: 1749158148:0;gsutil cp hierarquia.xlsx gs://ma-data-prod-lake-lactalis-raw/dpa/sellin/hierarchy
+: 1749165920:0;gsutil ls gs://ma-data-prod-lake-lactalis-raw/dpa/sellin/hierarchy/hierarquia.xlsx
+: 1749166003:0;gsutil cp hierarquia.xlsx gs://ma-data-prod-lake-lactalis-raw/dpa/sellin/hierarchy/
+: 1749166012:0;gsutil ls gs://ma-data-prod-lake-lactalis-raw/dpa/sellin/hierarchy/
+: 1749166042:0;gsutil ls -lh "gs://ma-data-prod-lake-lactalis-raw/dpa/sellin/hierarchy/**"
+: 1749167590:0;cp ../warehouses/cls_to_app.py .
+: 1749168132:0;gcloud dataproc batches submit pyspark cls_to_app.py --staging-bucket="ma-shared-prod-code-pyspark" --deps-bucket="ma-shared-prod-code-pyspark" --region="us-central1" --project="ma-shared-prod" --version=2.2 --container-image="us-central1-docker.pkg.dev/ma-shared-prod/docker-images/dataproc:latest" -- --input "gs://ma-data-prod-lake-lactalis-cls/dpa/sellin/hierarchy/hierarchy.parquet" --output-old "gs://ma-data-prod-lake-lactalis-cls/dpa/sellin/hierarchy_old" --output-new "gs://ma-data-prod-lake-lactalis-cls/dpa/sellin/hierarchy"
+: 1749168462:0;gsutil ls -lh "gs://ma-data-prod-lake-lactalis-app/dpa/sellin/**"
+: 1749168549:0;gsutil rm "gs://ma-data-prod-lake-lactalis-cls/dpa/sellin/hierarchy_old"
+: 1749168564:0;gsutil rm "gs://ma-data-prod-lake-lactalis-cls/dpa/sellin/hierarchy"
+: 1749168600:0;gsutil ls "gs://ma-data-prod-lake-lactalis-cls/dpa/sellin/hierarchy/**"
+: 1749168745:0;cd dags/mathanalytics/orgs/lactalis/dags
+: 1749168778:0;cp dpa_sellout_model_weekly_dag.py dpa_sellin_data_others_dag.py
+: 1749169047:0;gsutil ls "gs://ma-data-prod-lake-lactalis-cls/dpa/sellin/warehouses/**"
+: 1749171796:0;mv raw_to_app.py product_raw_to_app.py
+: 1749171816:0;cp product_map_raw_to_app.py
+: 1749171829:0;cp product_raw_to_app.py product_map_raw_to_app.py
+: 1749171837:0;vim product_raw_to_app.py
+: 1749171937:0;mkdir products_map
+: 1749171958:0;cp products/product_map_raw_to_app.py products_map/raw_to_app.py
+: 1749171970:0;rm product_map_raw_to_app.py
+: 1749171980:0;mv product_raw_to_app.py raw_to_app.py
+: 1749172457:0;mv produtos_depara.xlsx produtos_centro_depara.xlsx
+: 1749172498:0;gsutil cp produtos_centro_depara.xlsx gs://ma-data-prod-lake-lactalis-raw/dpa/sellin/products/
+: 1749172588:0;gsutil mv gs://ma-data-prod-lake-lactalis-raw/dpa/sellin/products/produtos_centro_depara.xlsx gs://ma-data-prod-lake-lactalis-raw/dpa/sellin/products/produtos_centro.xlsx
+: 1749172617:0;gsutil ls "gs://ma-data-prod-lake-lactalis-raw/dpa/sellin/products/**"
+: 1749172976:0;gcloud dataproc batches submit pyspark products_map/raw_to_app.py --staging-bucket="ma-shared-prod-code-pyspark" --deps-bucket="ma-shared-prod-code-pyspark" --region="us-central1" --project="ma-shared-prod" --version=2.2 --container-image="us-central1-docker.pkg.dev/ma-shared-prod/docker-images/dataproc:latest" -- --input "gs://ma-data-prod-lake-lactalis-raw/dpa/sellin/products/produtos_centro.xlsx" --output "gs://ma-data-prod-lake-lactalis-app/dpa/sellin/products_map"
+: 1749173270:0;vim products/raw_to_app.py
+: 1749173493:0;gcloud dataproc batches submit pyspark products/raw_to_app.py --staging-bucket="ma-shared-prod-code-pyspark" --deps-bucket="ma-shared-prod-code-pyspark" --region="us-central1" --project="ma-shared-prod" --version=2.2 --container-image="us-central1-docker.pkg.dev/ma-shared-prod/docker-images/dataproc:latest" -- --input "gs://ma-data-prod-lake-lactalis-raw/dpa/sellin/products/produtos.xlsx" --output "gs://ma-data-prod-lake-lactalis-app/dpa/sellin/products"
+: 1749173685:0;gsutil rm gs://ma-data-prod-lake-lactalis-raw/dpa/sellin/hierarchy
+: 1749174572:0;vim dpa_sellout_data_sales_dag.py
+: 1749566143:0;cd Work/mathanalytics/git/data-pipelines/scripts/orgs/lactalis/dpa/sellout/reports
+: 1749566167:0;gnome-text-editor report_pbi.py
+: 1749572429:0;cd la
+: 1749572430:0;cd lac
+: 1749572432:0;cd lact
+: 1749572437:0;cd predictions
+: 1749572439:0;cd lactalis
+: 1749646246:0;cd Work/mathanalytics/analysis/lactalis/notebooks
+: 1749646275:0;pip update
+: 1749646305:0;pip install --upgrade
+: 1749646328:0;pip install jupyter lab --upgrade
+: 1749646885:0;mkdir interim
+: 1749647178:0;rm interim/sales.parquet
+: 1749726728:0;dotnet workload update
+: 1749726971:0;yay 1password
+: 1749727191:0;python --version
+: 1749727387:0;yay -R pinta
+: 1749727529:0;pacman -Scc
+: 1749727636:18;rm -r .config/cache/yay/pinta
+: 1749727659:0;rm -rf .config/cache/yay/pinta
+: 1749727668:0;yay pinta
+: 1749819931:0;cd Work/mathanalytics/git/data-pipelines/scripts/orgs/lactalis/dpa/sellin/data
+: 1749819936:0;cd hierarchy
+: 1749821021:0;gcloud dataproc batches submit pyspark raw_to_cls.py --staging-bucket="ma-shared-prod-code-pyspark" --deps-bucket="ma-shared-prod-code-pyspark" --region="us-central1" --project="ma-shared-prod" --version=2.2 --container-image="us-central1-docker.pkg.dev/ma-shared-prod/docker-images/dataproc:latest" -- --input "gs://ma-data-prod-lake-lactalis-raw/dpa/sellin/hierarchy/hierarquia.xlsx" --output "gs://ma-data-prod-lake-lactalis-cls/dpa/sellin/hierarchy/hierarchy.parquet"
+: 1749821366:0;rls
+: 1749821502:0;gcloud dataproc batches submit pyspark cls_to_app.py --staging-bucket="ma-shared-prod-code-pyspark" --deps-bucket="ma-shared-prod-code-pyspark" --region="us-central1" --project="ma-shared-prod" --version=2.2 --container-image="us-central1-docker.pkg.dev/ma-shared-prod/docker-images/dataproc:latest" -- --input "gs://ma-data-prod-lake-lactalis-cls/dpa/sellin/hierarchy/hierarchy.parquet" --output-old "gs://ma-data-prod-lake-lactalis-app/dpa/sellin/hierarchy_old" --output-new "gs://ma-data-prod-lake-lactalis-app/dpa/sellin/hierarchy"
+: 1749832996:0;gcloud dataproc batches submit pyspark cls_to_app.py --staging-bucket="ma-shared-prod-code-pyspark" --deps-bucket="ma-shared-prod-code-pyspark" --region="us-central1" --project="ma-shared-prod" --version=2.2 --container-image="us-central1-docker.pkg.dev/ma-shared-prod/docker-images/dataproc:latest" -- --input "gs://ma-data-prod-lake-lactalis-cls/dpa/sellin/warehouses/warehouses.parquet" --output-old-old "gs://ma-data-prod-lake-lactalis-app/dpa/sellin/warehouses_old_old" --output-old-new "gs://ma-data-prod-lake-lactalis-app/dpa/sellin/warehouses_old_new" --output-new "gs://ma-data-prod-lake-lactalis-app/dpa/sellin/warehouses"
+: 1749834780:0;cd products
+: 1749834782:0;vim raw_to_app.py
+: 1749898694:0;cd warehouses
+: 1749899479:0;gcloud dataproc batches submit pyspark cls_to_app.py --staging-bucket="ma-shared-prod-code-pyspark" --deps-bucket="ma-shared-prod-code-pyspark" --region="us-central1" --project="ma-shared-prod" --version=2.2 --container-image="us-central1-docker.pkg.dev/ma-shared-prod/docker-images/dataproc:latest" -- --input "gs://ma-data-prod-lake-lactalis-cls/dpa/sellin/warehouses/warehouses.parquet" --output-old-old-map "gs://ma-data-prod-lake-lactalis-app/dpa/sellin/warehouses_map_old_old" --output-old-new-map "gs://ma-data-prod-lake-lactalis-app/dpa/sellin/warehouses_map_old_new" --output-new-map "gs://ma-data-prod-lake-lactalis-app/dpa/sellin/warehouses_map" --output-old-info "gs://ma-data-prod-lake-lactalis-app/dpa/sellin/warehouses_old" --output-new-info "gs://ma-data-prod-lake-lactalis-app/dpa/sellin/warehouses"
+: 1749900487:0;vim cls_to_app.py
+: 1749900626:0;vim raw_to_cls.py
+: 1749900730:0;gcloud dataproc batches submit pyspark cls_to_app.py --staging-bucket="ma-shared-prod-code-pyspark" --deps-bucket="ma-shared-prod-code-pyspark" --region="us-central1" --project="ma-shared-prod" --version=2.2 --container-image="us-central1-docker.pkg.dev/ma-shared-prod/docker-images/dataproc:latest" -- --input "gs://ma-data-prod-lake-lactalis-cls/dpa/sellin/warehouses/warehouses.parquet" --output-old-old-map "gs://ma-data-prod-lake-lactalis-app/dpa/sellin/warehouses/id_map_old_old" --output-old-new-map "gs://ma-data-prod-lake-lactalis-app/dpa/sellin/warehouses/id_map_old_new" --output-new-map "gs://ma-data-prod-lake-lactalis-app/dpa/sellin/warehouses/id_map" --output-old-info "gs://ma-data-prod-lake-lactalis-app/dpa/sellin/warehouses/info_old" --output-new-info "gs://ma-data-prod-lake-lactalis-app/dpa/sellin/warehouses/info"
+: 1749902700:0;gcloud dataproc batches submit pyspark raw_to_cls.py --staging-bucket="ma-shared-prod-code-pyspark" --deps-bucket="ma-shared-prod-code-pyspark" --region="us-central1" --project="ma-shared-prod" --version=2.2 --container-image="us-central1-docker.pkg.dev/ma-shared-prod/docker-images/dataproc:latest" -- --input "gs://ma-data-prod-lake-lactalis-raw/dpa/sellin/warehouses/plantas.xlsx" --output "gs://ma-data-prod-lake-lactalis-cls/dpa/sellin/warehouses/warehouses.parquet"
+: 1749903090:0;gsutil rm "gs://ma-data-prod-lake-lactalis-app/dpa/sellin/warehouses*"
+: 1749903248:0;gsutil rm "gs://ma-data-prod-lake-lactalis-app/dpa/sellin/warehouses/*"
+: 1749903295:0;gcloud dataproc batches submit pyspark cls_to_app.py --staging-bucket="ma-shared-prod-code-pyspark" --deps-bucket="ma-shared-prod-code-pyspark" --region="us-central1" --project="ma-shared-prod" --version=2.2 --container-image="us-central1-docker.pkg.dev/ma-shared-prod/docker-images/dataproc:latest" -- --input "gs://ma-data-prod-lake-lactalis-cls/dpa/sellin/warehouses/warehouses.parquet" --output-old-old-map "gs://ma-data-prod-lake-lactalis-app/dpa/sellin/warehouses_id_map_old_old" --output-old-new-map "gs://ma-data-prod-lake-lactalis-app/dpa/sellin/warehouses_id_map_old_new" --output-new-map "gs://ma-data-prod-lake-lactalis-app/dpa/sellin/warehouses_id_map" --output-old-info "gs://ma-data-prod-lake-lactalis-app/dpa/sellin/warehouses_old" --output-new-info "gs://ma-data-prod-lake-lactalis-app/dpa/sellin/warehouses"
+: 1749903715:0;ls products
+: 1749903739:0;ls products_map
+: 1749903746:0;vim products_map/raw_to_app.py
+: 1749903907:0;cd products_map
+: 1749904057:0;cd Work/mathanalytics/analysis/lactalis/data/dpa/others
+: 1749904192:0;gcloud dataproc batches submit pyspark products_map/raw_to_app.py --staging-bucket="ma-shared-prod-code-pyspark" --deps-bucket="ma-shared-prod-code-pyspark" --region="us-central1" --project="ma-shared-prod" --version=2.2 --container-image="us-central1-docker.pkg.dev/ma-shared-prod/docker-images/dataproc:latest" -- --input "gs://ma-data-prod-lake-lactalis-raw/dpa/sellin/products/produtos_centro.xlsx" --output "gs://ma-data-prod-lake-lactalis-app/dpa/sellin/products_id_map"
+: 1749904217:0;gcloud dataproc batches submit pyspark raw_to_app.py --staging-bucket="ma-shared-prod-code-pyspark" --deps-bucket="ma-shared-prod-code-pyspark" --region="us-central1" --project="ma-shared-prod" --version=2.2 --container-image="us-central1-docker.pkg.dev/ma-shared-prod/docker-images/dataproc:latest" -- --input "gs://ma-data-prod-lake-lactalis-raw/dpa/sellin/products/produtos_centro.xlsx" --output "gs://ma-data-prod-lake-lactalis-app/dpa/sellin/products_id_map"\
+
+: 1749906571:0;cd Work/mathanalytics
+: 1749906578:0;ls;
+: 1749906597:0;cd dataeng
+: 1749906606:0;cd data-eng-inmet-pipeline
+: 1749906611:0;cd src
+: 1749906615:0;vim main.py
+: 1749906620:0;cd pipeline
+: 1749906757:0;vim processing.py
+: 1749906793:0;vim dataprep/transform.py
+: 1749906971:0;rm -rf public
+: 1749906976:0;ls orgs
+: 1749906985:0;mkdir public
+: 1749906987:0;cd public
+: 1749906990:0;mkdir inmet
+: 1749907004:0;cd rm -rf da
+: 1749907009:0;cd inmet
+: 1749907982:0;virtualenv venv
+: 1749909704:0;python src_to_raw.py --input "https://portal.inmet.gov.br/uploads/dadoshistoricos/2022.zip"
+: 1749909761:0;ls /tmp
+: 1749909773:0;ls /tmp/lu19708bw5yh.tmp
+: 1749909824:0;python src_to_raw.py --input "https://portal.inmet.gov.br/uploads/dadoshistoricos/2022.zip" --output test
+: 1749911274:0;gsutil ls "gs://ma-data-prod-lake-lactalis-app/dpa/sellin/**"
+: 1749911792:0;cd dags/mathanalytics/orgs/lactalis
+: 1749911794:0;cd dags
+: 1749911804:0;vim dpa_sellin_data_others_dag.py
+: 1749912757:0;python test.py
+: 1749913102:0;vim inmet.py
+: 1749913135:0;gnome-text-editor inmet.py
+: 1749913153:0;vim test2.py
+: 1749913374:0;cd Work/mathanalytics/git/data-pipelines/scripts/public/inmet/data
+: 1749913382:0;vim src_to_raw.py
+: 1749913518:0;cd Downloads/2024
+: 1749913824:0;gsutil ls "gs://ma-data-prod-lake-lactalis-raw/dpa/sellin/**"
+: 1749914017:0;gsutil -m cp *.CSV "gs://ma-data-prod-lake-inmet-raw/climate_stations/version=v1/frequency=yearly/year=2024/"
+: 1749914080:0;gsutil ls "gs://ma-data-prod-lake-inmet-raw/**"
+: 1749914125:0;cp src_to_raw.py raw_to_std.py
+: 1749914127:0;vim raw_to_std.py
+: 1750172620:0;python
+: 1750201484:0;pacman -S gnome-clocks
+: 1750340158:0;localectl
+: 1750340180:0;localectl list-keymaps
+: 1750340376:0;localectl list-keymaps | grep us
+: 1750340387:0;localectl list-keymaps | grep br
+: 1750340531:0;localectl set-x11-keymap us default intl
+: 1750340557:0;localectl --help
+: 1750341025:0;vim /etc/vconsole.conf
+: 1750341177:0;localectl set-x11-keymap us intl
+: 1750341193:0;localectl set-keymap us-acentos
+: 1750341200:0;localectl status
+: 1750341300:0;si
+: 1750341305:0;pacman -R fcitx5
+: 1750342275:0;gsutil ls "gs://ma-data-prod-lake-lactalis-raw/dpa/sellout/**"
+: 1750342468:0;cd DPA_SELLOUT
+: 1750342473:0;cd TEST
+: 1750342477:0;gsutil cp gs://ma-data-prod-lake-lactalis-raw/dpa/sellout/sales/version=v1/frequency=daily/year=2025/month=06/day=08/dpa-sellout-sales-esales-20250608.csv.gz .
+: 1750342527:0;tar xzf dpa-sellout-sales-esales-20250608.csv.gz
+: 1750342538:0;gunzip dpa-sellout-sales-esales-20250608.csv.gz
+: 1750342541:0;vim dpa-sellout-sales-esales-20250608.csv
+: 1750372736:0;gsutil ls gs://dpa_sellin
+: 1750372911:0;gsutil cp gs://dpa_sellin/ma-dpa-sales-ds-server-workspace.zip gs://ma-shared-prod-backup/
+: 1750372930:0;gsutil ls gs://ma-shared-prod-backup/
+: 1750372945:0;gsutil ls -lh gs://ma-shared-prod-backup/
+: 1750372962:0;gsutil rm gs://dpa_sellin/ma-dpa-sales-ds-server-workspace.zip
+: 1750373409:0;gsutil ls -lh gs://dpa_sellin
+: 1750507177:0;cd Work/mathanalytics/git/data-pipeline
+: 1750507210:0;git commit -m "Add temp scripts"
+: 1750507227:0;cd analysis/lactalis
+: 1750507276:0;ls DPA_SELLIN
+: 1750507291:0;mv DPA_SELLIN ~/DPA_SELLIN_NEW
+: 1750507297:0;ls lightning_logs
+: 1750507302:0;vim lightning_logs/version_0
+: 1750507326:0;du -h data
+: 1751285635:0;mkdir DATA_TEST
+: 1751285637:0;cd DATA_TEST
+: 1751285686:0;gsutil -m cp -r gs://aurora_sellin .
+: 1751285979:0;gsutil -m cp -r gs://danone_sellin .
+: 1751286012:0;gsutil -m cp -r gs://dpa-forecast-data .
+: 1751287406:0;du -h dpa-forecast-data
+: 1751287420:0;ls dimension
+: 1751287451:0;du -h models
+: 1751287481:0;ls results/output_cli
+: 1751287518:0;ls results_final/week
+: 1751294942:0;gsutil -m cp -r gs://poc_bombril .
+: 1751295117:0;du -h .
+: 1751295129:0;cd aurora_sellin
+: 1751295172:0;rm -rf aurora_sellin
+: 1751295177:0;ls danone_sellin
+: 1751295180:0;tree danone_sellin
+: 1751295184:0;rm -rf danone_sellin
+: 1751295191:0;ls poc_bombril
+: 1751295193:0;tree poc_bombril
+: 1751295229:0;cd interim
+: 1751295256:0;cd poc_bombril
+: 1751295279:0;gsutil cp -r gs://poc_bombril/data/raw .
+: 1751295295:0;gsutil -m cp -r gs://poc_bombril/data/raw .
+: 1751295337:0;mv poc_bombril bombril
+: 1751295339:0;cd bombril
+: 1751295345:0;mkdir data
+: 1751295361:0;mv sales/* ../data
+: 1751295369:0;tree data
+: 1751295373:0;rm -rf raw
+: 1751295380:0;cd dpa-forecast-data
+: 1751372874:0;ls codes
+: 1751372881:0;ls data
+: 1751372886:0;rm -rf data
+: 1751372904:0;mv dpa-forecast-data/ dpa_sellout
+: 1751372908:0;cd dpa_sellout
+: 1751372913:0;mv codes src
+: 1751372917:0;ls forecast_dpa
+: 1751372928:0;ls dpa_daily_new
+: 1751372934:0;ls models
+: 1751372939:0;rm -rf models
+: 1751372946:0;ls processed
+: 1751372953:0;rm -rf processed
+: 1751372957:0;ls results
+: 1751372961:0;rm -rf results
+: 1751372993:0;ls results_final
+: 1751373000:0;rm -rf results_final
+: 1751373009:0;ls raw_data
+: 1751373021:0;rm -rf raw_data
+: 1751373037:0;mv dimension data
+: 1751373041:0;cd forecast_dpa
+: 1751373053:0;rm -rf forecast_dpa
+: 1751373061:0;cd historico_predict
+: 1751373082:0;rm -rf historico_predict
+: 1751373087:0;cd dpa_daily_new
+: 1751373091:0;ls model
+: 1751373094:0;ls interim
+: 1751373103:0;ls forecast
+: 1751373110:0;rm -rf dpa_daily_new
+: 1751373123:0;mv dpa_sellout dpa
+: 1751458128:0;cd data/lactalis
+: 1751458130:0;cd external
+: 1751458145:0;rm DePara\ SKUs.xlsx
+: 1751458161:0;mv DePara\ SKU.xlsx produtos.xlsx
+: 1751458168:0;mv DePara\ Centros.xlsx centros.xlsx
+: 1751458177:0;cd raw
+: 1751465067:0;rm /usr/lib/firmware/nvidia/ad103
+: 1751465074:0;rm -rf /usr/lib/firmware/nvidia/ad103
+: 1751465083:0;rm -rf /usr/lib/firmware/nvidia/ad104
+: 1751465197:0;nordvpn connect
+: 1751465230:0;pacman -S nordvpn
+: 1751465391:0;pacman -S docker
+: 1751465454:0;groupadd docker
+: 1751465476:0;user
+: 1751465480:0;users
+: 1751465502:0;usermod -aG docker thyago
+: 1751465551:0;usermod -aG docker root
+: 1751465554:0;yay nordvpn-gui
+: 1751476160:0;cd processed
+: 1751476165:0;rm *.csv
+: 1751549030:0;cd Work/mathanalytics/analysis/lactalis
+: 1751549031:0;cd notebooks
+: 1751565659:0;cd Work/mathanalytics/git/data-pipelines
+: 1751565672:0;cd demand
+: 1751565679:0;ls v1
+: 1751565696:0;cd v1
+: 1751566055:0;gsutil rm gs://ma-data-prod-lake-lactalis-app/dpa/sellin/demand_adjusted
+: 1751654654:0;cd Work/personal
+: 1751654657:0;cd git
+: 1751678410:0;rm -rf /usr/lib/firmware/nvidia/ad106
+: 1751678416:0;rm -rf /usr/lib/firmware/nvidia/ad107
+: 1751678674:0;pacman -S electrum
+: 1751722944:0;pacman -R firefox
+: 1751723112:0;vim ~/.config/user-dirs.dirs
+: 1751723778:0;pip install jupyter_core --upgrade
+: 1751723969:0;pacman -Syu
+: 1751724114:0;tree Research
+: 1751724323:0;ls .ipython
+: 1751724328:0;ls .ipython/profile_default
+: 1751724340:0;rm -rf .ipython
+: 1751724403:0;cd thyago
+: 1751724428:0;rm -rf .jupyter
+: 1751724501:0;echo $HISTFILE
+: 1751724543:0;ls .histdb/
+: 1751724595:0;rm -rf .histdb
+: 1751724619:0;rm .steampath
+: 1751724632:0;ls -lh
+: 1751724635:0;ls -lah
+: 1751724649:0;ls .cargo
+: 1751724859:0;ls -lha
+: 1751724866:0;rm -rf .cargo
+: 1751725007:0;ls -al
+: 1751725189:0;ls .steam
+: 1751725212:0;ls Research
+: 1751725268:0;mkdir company
+: 1751725282:0;mv mathanalytics company
+: 1751725290:0;mv thelook company
+: 1751725296:0;mv thepes company
+: 1751725315:0;mv tgpsicocare company
+: 1751725402:0;mv company business
+: 1751725413:0;ls elysium
+: 1751725429:0;mv legacy/aldeiaorganicos business
+: 1751725441:0;mv legacy/springboard business
+: 1751725458:0;mv legacy/interviews .
+: 1751725464:0;ls legacy
+: 1751725465:0;rm -rf legacy
+: 1751725474:0;mv elysium business
+: 1751725481:0;ls PYDATA
+: 1751725489:0;rm -rf PYDATA
+: 1751725495:0;ls tools
+: 1751725507:0;ls tools/google-cloud-
+: 1751725511:0;ls tools/google-cloud-sdk
+: 1751725526:0;rm -rf tools
+: 1751725529:0;lsls
+: 1751725581:0;ls interviews
+: 1751725660:0;dc work
+: 1751725670:0;ls business
+: 1751725929:0;ls assets
+: 1751725946:0;cd personal
+: 1751726659:0;cd downloads
+: 1751726672:0;rm -rf ADMISSÃƒ£O
+: 1751726686:0;rm -rf Funcionarios\ Desligados\ dia\ 27.06
+: 1751731984:0;cd do
+: 1751732045:0;ls utils
+: 1751732475:0;pipx --help
+: 1751732490:0;pipx list
+: 1751733865:0;ls .local/bin/
+: 1751733875:0;ls .local/share
+: 1751733880:0;ls .local/share/jupyter
+: 1751733887:0;ls .local/tmux
+: 1751733893:0;ls .local/share/tmux
+: 1751733901:0;ls .config
+: 1751734081:0;ls .local
+: 1751734087:0;ls .config/local
+: 1751734100:0;ls .config/local/share/pipx
+: 1751734107:0;ls .config/local/share/pipx/venvs
+: 1751734167:0;vim .config/zsh/completions.zsh
+: 1751734175:0;vim .config/zsh/functions.zsh
+: 1751734185:0;vim .config/zsh/keybinds.zsh
+: 1751734195:0;ls .pyenv
+: 1751734204:0;rm -rf .pyenv
+: 1751734309:0;curl https://pyenv.run | bash
+: 1751734416:0;rm -r .pyenv
+: 1751734493:0;cd .config/local/share
+: 1751734504:0;git clone https://github.com/pyenv/pyenv.git pyenv
+: 1751734511:0;cd pyenv
+: 1751734530:0;cd pyenv.d
+: 1751734548:0;cd src/
+: 1751735690:0;rm -r .config/local/share/pyenv/
+: 1751735694:0;rm -rf .config/local/share/pyenv/
+: 1751735752:0;echo $PYENV_ROOT
+: 1751735764:0;ls /home/thyago/.config/local/share/pyenv
+: 1751736081:0;which pyenv
+: 1751757812:0;vim user-dirs.dirs
+: 1751760224:0;9;5uls
+: 1751760232:0;cd local/share/pyenv
+: 1751760251:0;ls -la
+: 1751760322:0;vim .steampath
+: 1751760344:0;vim .z
+: 1751762319:0;cd work
+: 1751762325:0;cd business
+: 1751762337:0;cd mathanalytics
+: 1751839760:0;nvm
+: 1751839817:0;compaudit
+: 1751839831:0;pacman -S nvm
+: 1751839924:0;nvm --help
+: 1751839972:0;nvm ls-remote --lts
+: 1751839989:0;nvm install v22.17.0
+: 1751840230:0;npm install -g npm@11.4.2
+: 1751840247:0;npm install -g @google/gemini-cli
+: 1751840253:0;npm fund
+: 1751840302:0;npm update
+: 1751840661:0;pwd
+: 1751842196:0;neovim
+: 1751842208:0;ls -l
+: 1751842224:0;ls .npm
+: 1751842228:0;rm package-lock.json
+: 1751842665:0;cd .config/nvim/
+: 1751842971:0;ls lua
+: 1751842975:0;tree lua
+: 1751845513:0;cd scripts/orgs/lactalis/dpa
+: 1751845518:0;cd sellin
+: 1751845564:0;vim test.py
+: 1751845724:0;nvim test.py
+: 1751846111:0;mv -r local/share/* ~/.local/share
+: 1751846118:0;mv local/share/* ~/.local/share
+: 1751846468:0;rm -rf .config/local/
+: 1751846589:0;nvim .zshenv
+: 1751846946:0;grep -ri XDG .config/zsh
+: 1751847145:0;echo $XDG_DATA_HOME
+: 1751847174:0;vim .bashrc
+: 1751847347:0;ls local
+: 1751847350:0;ls local/share
+: 1751847414:0;rm -rf .config/local
+: 1751847584:0;ls .config/local/share
+: 1751847600:0;vim .config/ghostty/config
+: 1751847642:0;rm -rf .config/local/share
+: 1751847651:0;rm -rf .config/cache
+: 1751848585:0;grep -ri VIMCONFIG .
+: 1751849266:0;vim .zshenv
+: 1751849962:0;nvim
+: 1751850024:0;cd work/business/mathanalytics/git/data-pipelines
+: 1751850032:0;cd scripts/orgs/lactalis/dpa/sellout/models
+: 1751850039:0;vim forecast
+: 1751850043:0;vim forecast.py
+: 1751850384:0;nvim forecast
+: 1751850386:0;nvim forecast.py
+: 1751855100:0;curl -fsSL https://pyenv.run | bash
+: 1751894485:0;cd nvim
+: 1751894489:0;tree .
+: 1751894755:0;cd models
+: 1751894761:0;cd weekly
+: 1751898129:0;top
+: 1751908824:0;gsutil ls gs://ma-shared-prod-models-lactalis/dpa/sellout/sales/weekly/data/**
+: 1751908832:0;gsutil "ls gs://ma-shared-prod-models-lactalis/dpa/sellout/sales/weekly/data/**"
+: 1751908856:0;which gsutil
+: 1751908887:0;vim .config/zsh/aliases.zsh
+: 1751908921:0;yay -R gsutil
+: 1751908925:0;yay gsutil
+: 1751909049:0;pyenv
+: 1751909061:0;pyenv install --list
+: 1751909099:0;pyenv install 3.12.11
+: 1751909373:0;pyenv versions
+: 1751909379:0;pyenv local 3.12.11
+: 1751909391:0;pyenv --help
+: 1751909398:0;pyenv virtualenv math
+: 1751920164:0;pip install numpy pandas statsforecast utilsforecast scikit-learn
+: 1751920201:0;pip install jupyter lab
+: 1751920234:0;python -m pip install --upgrade pip
+: 1751920243:0;which pip
+: 1751920249:0;pip install --upgrade pip
+: 1751938689:0;cd .config/nvim
+: 1751938693:0;vim init.lua
+: 1751938737:0;cd lua
+: 1751938739:0;cd core
+: 1751938746:0;vim options.lua
+: 1751976948:0;yay -R google-cloud-cli
+: 1751976955:0;yayr --help
+: 1751976972:0;yayr
+: 1751977057:0;pacman -Rns google-cloud-tools
+: 1751977212:0;pacman -Ss google-cloud
+: 1751977226:0;pacman -Ss google
+: 1751977247:0;rm /var/lib/pacman/db.lck
+: 1751977389:0;yay -Qem
+: 1751977429:0;pacman -Rns google-cloud-cli
+: 1751977449:0;yay google-cloud-cli
+: 1751977595:0;gcloud --help
+: 1751977616:0;yay google-cloud-cli-gsutil
+: 1751977658:0;gsutil ls
+: 1751977696:0;gsutil ls -p ma-data-prod
+: 1751977733:0;gsutil ls gs://ma-data-prod-lake-lactalis-app/dpa/sellin
+: 1751977763:0;pip install ipython
+: 1751978878:0;pip install gcsfs pyarrow
+: 1751979356:0;cd work/personal
+: 1751979387:0;vim read_gcs_parquet.py
+: 1751979405:0;python read_gcs_parquet.py
+: 1751980320:0;jupyter lab
+: 1751980605:0;gsutil ls gs://ma-shared-prod-models-lactalis/dpa/sellout/sales/weekly/predictions/2024-W52/dpa-sellout-sales-weekly-forecast-2024-W52.parquet.snappy
+: 1752003731:0;yay
+: 1752004887:0;cd work/business/mathanalytics/git/data-pipelines/dags/mathanalytics/orgs/lactalis/dags
+: 1752004892:0;vim dpa_sellout_model_weekly_dag.py
+: 1752005001:0;gsutil ls "gs://ma-shared-prod-models-lactalis/dpa/sellout/sales/weekly/reports/**"
+: 1752006163:0;gsutil ls -lh "gs://ma-shared-prod-models-lactalis/dpa/sellout/sales/weekly/reports/**"
+: 1752006968:0;cd reports
+: 1752015191:0;npm install -g @anthropic-ai/claude-code
+: 1752015201:0;claude
+: 1752063361:0;rm -rf Downloads
+: 1752063373:0;tree -L 2 .
+: 1752063865:0;echo $NPM_USERCONFIG_CONFIG
+: 1752063870:0;vim .config/zsh/.zshrc
+: 1752063879:0;echo $NPM_CONFIG_USERCONFIG
+: 1752063897:0;pacman -Rns npm
+: 1752063971:0;rm -rf .npm
+: 1752063988:0;pacman -S npm
+: 1752064013:0;ls .config/
+: 1752064019:0;ls .config/npm
+: 1752064056:0;vim .claude.json
+: 1752064118:0;ls .cache
+: 1752064169:0;vim .python-version
+: 1752064177:0;rm .z
+: 1752064193:0;la -a
+: 1752064197:0;ls -a
+: 1752064211:0;gcloud storage ls
+: 1752064233:0;gcloud survey
+: 1752064583:0;bash <(curl -L https://zellij.dev/launch)
+: 1752064710:0;ls .config/tmux
+: 1752064739:0;cd work/business/mathanalytics/git/data-pipelines/scripts/orgs/lactalis/dpa/sellout
+: 1752064740:0;;s
+: 1752064904:0;yay xclip
+: 1752064947:0;yay wl-clipboard
+: 1752065079:0;cd work/business/mathanalytics/git/data-pipelines/scripts/orgs/lactalis/dpa/sellout/
+: 1752065081:0;cd data
+: 1752065083:0;cd sales
+: 1752065086:0;vim std_to_cls.py
+: 1752065573:0;cd .config/tmux
+: 1752066968:0;ls plugins/tmux-continuum
+: 1752068401:0;ls plugins
+: 1752068662:0;rm -rf plugins
+: 1752068750:0;ls ~/.local/share/tmux/
+: 1752068779:0;ls ~/.local/share/tmux/plugins
+: 1752068810:0;ls tmux/tmux.conf
+: 1752068817:0;cd .config
+: 1752068833:0;ls zsh-abbr
+: 1752068875:0;ls tmux
+: 1752068895:0;la
+: 1752068898:0;htop
+: 1752068902:0;topc
+: 1752092656:0;tmux ls
+: 1752092736:0;vim .config/tmux/tmux.conf
+: 1752092794:0;tmux rm 0
+: 1752092797:0;tmux --help
+: 1752092858:0;tmux
+: 1752092864:0;man tmux
+: 1752093111:0;yay ssh
+: 1752093170:0;yay openssh
+: 1752094895:0;yay tailscale
+: 1752094958:0;systemctl enable tailscaled.service
+: 1752094971:0;systemctl start tailscaled.service
+: 1752095375:0;gemini
+: 1752101781:0;curl -fsSL https://tailscale.com/install.sh | sh
+: 1752102225:0;ping 100.83.111.73 -c 4
+: 1752102863:0;ifconfig
+: 1752102869:0;ip link
+: 1752102891:0;vim /etc/NetworkManager/conf.d/99-tailscale.conf
+: 1752102915:0;systemctl restart NetworkManager
+: 1752102924:0;systemctl restart tailscaled
+: 1752102931:0;su
+: 1752102939:0;tailscale down
+: 1752102943:0;tailscale up
+: 1752102951:0;tailscale --help
+: 1752102984:0;tailscale status
+: 1752103009:0;which tailscale
+: 1752103326:0;cd work/business/mathanalytics/git/data-pipelines/scripts/orgs/lactalis/dpa/sellout/reports
+: 1752103382:0;git add report_pbi.py
+: 1752103395:0;git commit -m "Remove curve abc columns"
+: 1752103854:0;pyenv activate math
+: 1752103857:0;ipython
+: 1752104554:0;git commit -m "Remove future forecast dates from report"
+: 1752111014:0;vim report_client.py
+: 1752111035:0;vim report_pbi.py
+: 1752111152:0;git status
+: 1752111153:0;git add .
+: 1752111176:0;git commit -m "Add back the future weeks"
+: 1752111178:0;git push
+: 1752111427:0;vim zsh/.zshrc
+: 1752114376:0;cd zsh/
+: 1752114391:0;cls
+: 1752114399:0;l
+: 1752115239:0;mv cargo.zsh rust.zsh
+: 1752115240:0;vim rust.zsh
+: 1752115282:0;mv pyenv.zsh python.zsh
+: 1752115297:0;vim node.zsh
+: 1752115318:0;rm npm.zsh
+: 1752115323:0;rm nvm.zsh
+: 1752115664:0;cd env
+: 1752115686:0;vim shell.zsh
+: 1752115784:0;rm fzf.zsh zoxide.zsh starship.zsh
+: 1752115792:0;vim gcloud.zsh
+: 1752115802:0;vim python.zsh
+: 1752115831:0;vim functions-bkp.zsh
+: 1752115857:0;rm functions-bkp.zsh
+: 1752115876:0;vim completions.zsh
+: 1752115892:0;vim aliases.zsh
+: 1752115913:0;ls env
+: 1752115961:0;vim keybinds.zsh
+: 1752115975:0;cd tmux
+: 1752115977:0;vim tmux.conf
+: 1752116007:0;cd ..
+: 1752116011:0;cd zsh
+: 1752116362:0;mv .zshrc .zshrc.bkp
+: 1752116541:0;cd
+: 1752116787:0;cd .config/zsh
+: 1752116793:0;vim .zshrc
+: 1752116814:0;ls
+: 1752116818:0;ls Downloads
+: 1752116898:0;ls
+: 1752116907:0;cd .config
+: 1752116907:0;ls
+: 1752116913:0;cd ..
+: 1752116914:0;ls
+: 1752116916:0;vim .zshenv
+: 1752116947:0;ls
+: 1752116954:0;cd .config
+: 1752116954:0;ls
+: 1752116956:0;cd zsh
+: 1752116956:0;ls
+: 1752116960:0;ls -a
+: 1752116972:0;rm .zshrc.bkp.2
+: 1752116977:0;vim .zcompdump
+: 1752116983:0;ls
+: 1752116987:0;vim .zshrc
+: 1752117067:0;source .zshrc
+: 1752117069:0;ls
+: 1752117075:0;ls -a
+: 1752117079:0;rm .zshrc.bkp.2
+: 1752117084:0;ls
+: 1752117085:0;ls -a
+: 1752117103:0;ls
+: 1752117105:0;ls Downloads
+: 1752117110:0;ls -a Downloads
+: 1752117112:0;rm -rf Downloads
+: 1752117113:0;ls
+: 1752117118:0;cd .config/zsh
+: 1752117118:0;ls
+: 1752117140:0;cd ..
+: 1752117140:0;ls
+: 1752117141:0;cd ..
+: 1752117142:0;ls
+: 1752117149:0;vim .zshenv
+: 1752117162:0;ls
+: 1752117165:0;cd .config/zsh
+: 1752117166:0;ls
+: 1752117169:0;vim .zshrc
+: 1752117206:0;ls
+: 1752117208:0;vim .zshrc
+: 1752117470:0;ls
+: 1752117475:0;cd
+: 1752117478:0;vim .zshenv
+: 1752148921:0;ls
+: 1752148928:0;vim .config/zsh/.zshrc
+: 1752149074:0;gemini
+: 1752149168:0;setopt --help
+: 1752149174:0;man setopt
+: 1752149177:0;info setopt
+: 1752149235:0;vim .config/zsh/.zsh_history
+: 1752149258:0;ls
+: 1752149267:0;vim .config/zsh/.zshrc
+: 1752149311:0;ls
+: 1752149317:0;cd .config/zsh
+: 1752149317:0;ls
+: 1752149332:0;ls env
+: 1752149336:0;ls
+: 1752149338:0;vim env/shell.zsh
+: 1752149353:0;ls
+: 1752149356:0;vim keybinds.zsh
+: 1752149365:0;ls
+: 1752149368:0;vim aliases.zsh
+: 1752149373:0;ls
+: 1752149376:0;vim completions.zsh
+: 1752149385:0;ls
+: 1752149387:0;cd ..
+: 1752149387:0;ls
+: 1752149400:0;ls starship
+: 1752149401:0;ls
+: 1752149413:0;vim starship/starship.toml
+: 1752149416:0;ls
+: 1752149428:0;ls local
+: 1752149439:0;ls
+: 1752149459:0;vim zsh/.zshrc
+: 1752149877:0;ls
+: 1752149884:0;vim zsh/.zshrc
+: 1752150391:0;ls
+: 1752150393:0;cd ..
+: 1752150397:0;vim .zshenv
+: 1752150505:0;ls
+: 1752150548:0;ls .local/share/zinit/plugins
+: 1752150554:0;ls .local/share/zinit/
+: 1752150567:0;cd .local/share/zinit
+: 1752150568:0;ls
+: 1752150573:0;ls zinit.git
+: 1752150576:0;ls
+: 1752150579:0;ls plugins
+: 1752150582:0;ls snippets
+: 1752150587:0;ls completions
+: 1752150598:0;ls
+: 1752150610:0;cd ..
+: 1752150610:0;ls
+: 1752150619:0;mkdir zsh
+: 1752150620:0;ls
+: 1752150634:0;cd
+: 1752150636:0;vim .zshenv
+: 1752150661:0;vim .config/zsh/.zshrc

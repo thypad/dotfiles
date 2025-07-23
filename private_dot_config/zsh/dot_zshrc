@@ -1,0 +1,103 @@
+# ~/.config/zsh/.zshrc: Zsh Environment Setup
+#
+# This file is sourced by all Zsh invocations (interactive, non-interactive,
+# login, non-login). It's used to set global environment variables that
+# should be available to any process launched by Zsh.
+
+
+#--------------------------------------------------------------------#
+#                        Zinit (Plugin Manager)                      #
+#--------------------------------------------------------------------#
+
+# Set the directory we want to store zinit and all the plugins
+ZINIT_HOME="${XDG_DATA_HOME:-${HOME}/.local/share}/zinit/zinit.git"
+
+# Download zinit, if not present
+[ ! -d "$ZINIT_HOME" ] && mkdir -p "$(dirname "$ZINIT_HOME")"
+[ ! -d "$ZINIT_HOME/.git" ] && git clone https://github.com/zdharma-continuum/zinit.git "$ZINIT_HOME"
+
+# Load zinit
+source "${ZINIT_HOME}/zinit.zsh"
+
+
+#--------------------------------------------------------------------#
+#                             Plugins                                #
+#--------------------------------------------------------------------#
+
+zinit wait lucid for \
+  zsh-users/zsh-syntax-highlighting \
+  zsh-users/zsh-completions \
+  zsh-users/zsh-autosuggestions \
+  zsh-users/zsh-history-substring-search \
+  fdellwing/zsh-bat \
+  z-shell/zsh-eza \
+  MichaelAquilina/zsh-you-should-use \
+  Aloxaf/fzf-tab
+
+# add in snippets - plugins taken from other plugin managers?
+# taken from oh-my-zsh
+zinit snippet OMZP::git
+zinit snippet OMZP::sudo
+zinit snippet OMZP::archlinux
+zinit snippet OMZP::command-not-found
+
+# Load completions when zsh starts
+autoload -U compinit && compinit
+
+zinit cdreplay -q
+
+
+#--------------------------------------------------------------------#
+#                      Zsh Configuration                             #  OK
+#--------------------------------------------------------------------#
+
+# -- Basic Config --
+setopt AUTOCD               # change directory just by typing its name
+setopt CORRECT              # auto correct mistakes
+setopt INTERACTIVECOMMENTS  # allow comments in interactive mode
+setopt MAGICEQUALSUBST      # enable filename expansion for arguments of the form ‘anything=expression’
+setopt NONOMATCH            # hide error message if there is no match for the pattern
+setopt NOTIFY               # report the status of background jobs immediately
+setopt NUMERICGLOBSORT      # sort filenames numerically when it makes sense
+setopt PROMPTSUBST          # enable command substitution in prompt
+
+
+# -- History Config --
+HISTFILE="$XDG_STATE_HOME/zsh/history"
+HISTSIZE=5000000
+SAVEHIST=$HISTSIZE
+HISTDUP=erase
+
+# History options
+setopt APPEND_HISTORY            # Append to the history file, don't overwrite
+setopt EXTENDED_HISTORY          # Save timestamp and duration of each command
+setopt HIST_EXPIRE_DUPS_FIRST    # Expire duplicates first when trimming history
+setopt HIST_FCNTL_LOCK           # Lock the history file to prevent corruption
+setopt HIST_IGNORE_ALL_DUPS      # Remove all duplicate entries from the internal history list
+setopt HIST_IGNORE_SPACE         # Don't save commands that start with a space
+setopt HIST_NO_STORE             # Don't save `history` or `fc` commands
+setopt HIST_REDUCE_BLANKS        # Remove superfluous blanks from history items
+setopt HIST_SAVE_NO_DUPS         # Don't write duplicates to the history file
+setopt HIST_VERIFY               # Don't execute history expansion immediately
+setopt INC_APPEND_HISTORY        # Save each command to history immediately
+setopt SHARE_HISTORY             # Share history between all active shells
+
+
+#--------------------------------------------------------------------#
+#                   RUN AUXILIARY CONFIG FILES                       #
+#--------------------------------------------------------------------#
+
+source "$ZDOTDIR/aliases.zsh"
+source "$ZDOTDIR/functions.zsh"
+source "$ZDOTDIR/completions.zsh"
+source "$ZDOTDIR/keybinds.zsh"
+
+source "$ZDOTDIR/env/shell.zsh"
+source "$ZDOTDIR/env/node.zsh"
+source "$ZDOTDIR/env/python.zsh"
+source "$ZDOTDIR/env/rust.zsh"
+source "$ZDOTDIR/env/go.zsh"
+source "$ZDOTDIR/env/gcloud.zsh"
+source "$ZDOTDIR/env/atuin.zsh"
+
+export NVIMCONFIG="$XDG_CONFIG_HOME/nvim"
