@@ -1,3 +1,7 @@
+[core]
+	pager = bat --line-range :500
+[diff]
+	tool = bat
 [user]
 	email = thyago.porpino@gmail.com
 	name = Thyago Porpino
